@@ -6,4 +6,4 @@ type: Journal
 
 # Readme
 
-[Поток](./blob/master/Поток.md)
+[Поток](./master/Поток.md)
