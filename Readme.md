@@ -6,4 +6,3 @@ type: Journal
 
 # Readme
 
-[Поток](./Поток.md)
