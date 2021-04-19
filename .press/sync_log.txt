@@ -1,30 +1,21 @@
-Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:07:56 UTC
-Resetting to sha1: 63f4eac (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:08:33 UTC
+Resetting to sha1: a5267c7 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (2):
- • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+Committing unsynced notes (1):
+ • untitled_note.md (id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
    creating/updating
- • untitled_note.md (id=8c139b81-afb5-487e-8bce-8882d4a8a3c7)
-   creating/updating
-   deleting untitled_note.md
 
-Processing commits from 63f4eac to faf5858
- • 63f4eac - Update sync logs
- • 2e43330 - Update 'welcome_to_press.md'
- • bd1d852 - Update 'untitled_note.md'
- • faf5858 - Delete 'untitled_note.md'
+Processing commits from a5267c7 to 41d7b85
+ • a5267c7 - Update sync logs
+ • 41d7b85 - Update 'untitled_note.md'
 
 Syncing changes (2)
  • Add(path=.press/registers/untitled_note.meta)
- • Modify(path=welcome_to_press.md)
-   skipping welcome_to_press.md (already saved)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(8c139b81-afb5-487e-8bce-8882d4a8a3c7)
+ • Add(path=untitled_note.md)
+   skipping untitled_note.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Mon, 19 Apr 2021 16:07:58 UTC
+Wrapping up sync (before push) on Mon, 19 Apr 2021 16:08:34 UTC
