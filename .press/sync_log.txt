@@ -1,21 +1,22 @@
-Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:08:33 UTC
-Resetting to sha1: a5267c7 (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:10:13 UTC
+Resetting to sha1: c23ab30 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • untitled_note.md (id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
+ • target.md (old = untitled_note.md, id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
    creating/updating
 
-Processing commits from a5267c7 to 41d7b85
- • a5267c7 - Update sync logs
- • 41d7b85 - Update 'untitled_note.md'
+Processing commits from c23ab30 to 3f80d06
+ • c23ab30 - Update sync logs
+ • 3fb02ba - Rename 'untitled_note.md' → 'target.md'
+ • 3f80d06 - Update 'target.md'
 
 Syncing changes (2)
- • Add(path=.press/registers/untitled_note.meta)
- • Add(path=untitled_note.md)
-   skipping untitled_note.md (already saved)
+ • Rename(fromPath=.press/registers/untitled_note.meta, toPath=.press/registers/target.meta)
+ • Add(path=target.md)
+   skipping target.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Mon, 19 Apr 2021 16:08:34 UTC
+Wrapping up sync (before push) on Mon, 19 Apr 2021 16:10:15 UTC
