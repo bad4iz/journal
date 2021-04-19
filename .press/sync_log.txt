@@ -1,31 +1,22 @@
-Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:21:21 UTC
-Resetting to sha1: 56a38f2 (Edited Note).
+Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:21:56 UTC
+Resetting to sha1: 15d7403 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (2):
- • untitled_note.md (old = stream.md, id=4ccf808b-df9b-405d-ade5-ad4093821523)
-   creating/updating
-   deleting untitled_note.md
- • untitled_note.md (old = Readme.md, id=0dd419e0-42d3-4acd-86c2-d8111215bcd3)
+Committing unsynced notes (1):
+ • статьи.md (old = untitled_note.md, id=0dd419e0-42d3-4acd-86c2-d8111215bcd3)
    creating/updating
 
-Processing commits from 56a38f2 to 607135f
- • 56a38f2 - Edited Note
- • f25dbdd - Rename 'stream.md' → 'untitled_note.md'
- • 1a50f7b - Delete 'untitled_note.md'
- • b41a85e - Rename 'Readme.md' → 'untitled_note.md'
- • 607135f - Update 'untitled_note.md'
+Processing commits from 15d7403 to c10dbc1
+ • 15d7403 - Update sync logs
+ • aff71d6 - Rename 'untitled_note.md' → 'статьи.md'
+ • c10dbc1 - Update 'статьи.md'
 
 Syncing changes (2)
- • Rename(fromPath=.press/registers/Readme.meta, toPath=.press/registers/untitled_note.meta)
- • Add(path=untitled_note.md)
-   skipping untitled_note.md (already saved)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(4ccf808b-df9b-405d-ade5-ad4093821523)
+ • Rename(fromPath=.press/registers/untitled_note.meta, toPath=.press/registers/статьи.meta)
+ • Add(path=статьи.md)
+   skipping статьи.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Mon, 19 Apr 2021 16:21:23 UTC
+Wrapping up sync (before push) on Mon, 19 Apr 2021 16:21:58 UTC
