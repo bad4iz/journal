@@ -1,0 +1,117 @@
+Syncing notes with 'Note10+ пользователя евгений' on Mon, 19 Apr 2021 16:05:37 UTC
+Resetting to sha1: a716a18 (Setup syncing on 'Note10+ пользователя евгений').
+Syncing for the first time. Backing up notes to 'press-notes-backup-1618848339254' branch.
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+ • gij.md (id=859f53a7-675a-4cda-8401-11cbcbdf166f)
+Pulled upstream. Moved head from a716a18 - Setup syncing on 'Note10+ пользователя евгений' to 0564cea - Setup syncing on 'Note10+ пользователя евгений'.
+
+Pulled changes (11):
+ • Add(path=.idea/.gitignore)
+ • Add(path=.idea/journal.iml)
+ • Add(path=.idea/modules.xml)
+ • Add(path=.idea/vcs.xml)
+ • Add(path=Readme.md)
+ • Add(path=abcOfFinance.md)
+ • Add(path=abcOfFinance/money-growth-saving-money_34998-244.jpg)
+ • Add(path=horseman.md)
+ • Add(path=salary.md)
+ • Add(path=stream.md)
+ • Add(path=stream2.md)
+
+Processing commits from null to 0564cea
+ • bc216dc - Added Note
+ • a427c63 - Added Note
+ • 4661b8b - Added Note
+ • d5baf24 - Added Note
+ • 548b65f - Added Note
+ • 8d9a74c - Edited Note
+ • 3c66764 - Update Readme.md
+ • 54d13b1 - Update Readme.md
+ • 9ee6499 - Update Readme.md
+ • 76fc658 - Removed Note Олл.md
+ • 1a0dedb - Removed Note Лналпшгплгп.md
+ • 9a550dc - Removed Note 2021-04-04-14-15-54.md
+ • ae83e2a - Edited Note
+ • 5db254d - Added Note
+ • 0aae636 - Edited Note
+ • d947a76 - Added Note
+ • 23283c0 - Edited Note
+ • 023bcea - Edited Note
+ • 45c7ad0 - Edited Note
+ • 073ab9a - Edited Note
+ • 8e80e89 - Edited Note
+ • c281d48 - Edited Note
+ • 2332830 - Edited Note
+ • 971615a - Edited Note
+ • ee2feca - Create stream.md
+ • dfdae6a - Create horseman.md
+ • 1518f4e - Create stream2.md
+ • e3d0817 - init
+ • 20386e3 - ABCOfFinance
+ • dd6ce8c - sdf
+ • 1119f6d - sdf
+ • 775f7f1 - Edited Note
+ • b5b26d0 - Edited Note
+ • 357c88e - Added Note
+ • 0564cea - Setup syncing on 'Note10+ пользователя евгений'
+
+Syncing changes (12)
+ • Add(path=.idea/.gitignore)
+ • Add(path=.idea/journal.iml)
+ • Add(path=.idea/modules.xml)
+ • Add(path=.idea/vcs.xml)
+ • Add(path=.press/README.md)
+ • Add(path=Readme.md)
+   creating new note for Readme.md with id=0dd419e0-42d3-4acd-86c2-d8111215bcd3
+ • Add(path=abcOfFinance.md)
+   creating new note for abcOfFinance.md with id=20b09b55-5508-4e6c-a7e5-f074d9d08ae1
+ • Add(path=abcOfFinance/money-growth-saving-money_34998-244.jpg)
+ • Add(path=horseman.md)
+   creating new note for horseman.md with id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d
+ • Add(path=salary.md)
+   creating new note for salary.md with id=29d0f61f-7560-401e-8b50-d4412e976020
+ • Add(path=stream.md)
+   creating new note for stream.md with id=4ccf808b-df9b-405d-ade5-ad4093821523
+ • Add(path=stream2.md)
+   creating new note for stream2.md with id=39a2a3e2-af6b-44b1-901c-f82dd07f73ff
+
+Syncing deletions
+ • Олл.md
+   can't find file
+ • Лналпшгплгп.md
+   can't find file
+ • 2021-04-04-14-15-54.md
+   can't find file
+ • Наездник.md
+   can't find file
+ • Поток.md
+   can't find file
+
+Committing unsynced notes (3):
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+   picking local copy and discarding remote (if any)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+   picking local copy and discarding remote (if any)
+ • gij.md (id=859f53a7-675a-4cda-8401-11cbcbdf166f)
+   picking local copy and discarding remote (if any)
+
+Processing commits from 11d97cd to f6ed044
+ • 11d97cd - Create new file name records
+ • 4352cf6 - Update 'welcome_to_press.md'
+ • f399535 - Update 'markdown_guide.md'
+ • f6ed044 - Update 'gij.md'
+
+Syncing changes (6)
+ • Add(path=.press/registers/gij.meta)
+ • Add(path=.press/registers/markdown_guide.meta)
+ • Add(path=.press/registers/welcome_to_press.meta)
+ • Add(path=gij.md)
+   skipping gij.md (already saved)
+ • Add(path=markdown_guide.md)
+   skipping markdown_guide.md (already saved)
+ • Add(path=welcome_to_press.md)
+   skipping welcome_to_press.md (already saved)
+
+Pushing changes
+Wrapping up sync (before push) on Mon, 19 Apr 2021 16:05:46 UTC
