@@ -1,44 +1,20 @@
-Syncing notes with 'Note10+ пользователя евгений' on Wed, 21 Apr 2021 06:09:37 UTC
-Resetting to sha1: 8507828 (Update sync logs).
-Pulled upstream. Moved head from 8507828 - Update sync logs to 889e2b3 - Merge remote-tracking branch 'origin/master'.
+Syncing notes with 'Note10+ пользователя евгений' on Wed, 21 Apr 2021 08:42:37 UTC
+Resetting to sha1: 87ec0c7 (Update sync logs).
 
-Pulled changes (6):
- • Add(path=.gitignore)
- • Delete(path=.idea/.gitignore)
- • Delete(path=.idea/journal.iml)
- • Delete(path=.idea/modules.xml)
- • Delete(path=.idea/vcs.xml)
- • Add(path=abcOfFinanceSimple.md)
+Nothing to pull.
+Nothing to process.
 
-Processing commits from 8507828 to 889e2b3
- • 8507828 - Update sync logs
- • 9f383f8 - abc finance simple
- • 889e2b3 - Merge remote-tracking branch 'origin/master'
+Committing unsynced notes (1):
+ • поток_2_0.md (id=39a2a3e2-af6b-44b1-901c-f82dd07f73ff)
+   creating/updating
 
-Syncing changes (2)
- • Add(path=.gitignore)
- • Add(path=abcOfFinanceSimple.md)
-   creating new note for abcOfFinanceSimple.md with id=6db1b80a-d506-410e-ab19-1cf8617ebd53
+Processing commits from 87ec0c7 to 3fdaf89
+ • 87ec0c7 - Update sync logs
+ • 3fdaf89 - Update 'поток_2_0.md'
 
-Syncing deletions
- • markdown_guide.md
-   can't find file
- • salary.md
-   can't find file
- • target.md
-   can't find file
- • поток_2_0.md
-   can't find file
- • статьи.md
-   can't find file
- • Readme.md
-   can't find file
- • stream.md
-   can't find file
- • stream2.md
-   can't find file
-
-Nothing to commit.
+Syncing changes (1)
+ • Modify(path=поток_2_0.md)
+   skipping поток_2_0.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Wed, 21 Apr 2021 06:09:45 UTC
+Wrapping up sync (before push) on Wed, 21 Apr 2021 08:42:39 UTC
