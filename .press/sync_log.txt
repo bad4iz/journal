@@ -1,21 +1,22 @@
-Syncing notes with 'Note10+ пользователя евгений' on Sat, 24 Apr 2021 16:26:48 UTC
-Resetting to sha1: f465b39 (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Sat, 24 Apr 2021 16:27:23 UTC
+Resetting to sha1: 608a03e (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • доростм.md (id=1a9c6261-e7cb-4075-a01e-e3b2da36686a)
+ • дорасти_до_суммы_.md (old = доростм.md, id=1a9c6261-e7cb-4075-a01e-e3b2da36686a)
    creating/updating
 
-Processing commits from f465b39 to 7620a64
- • f465b39 - Update sync logs
- • 7620a64 - Update 'доростм.md'
+Processing commits from 608a03e to 111c833
+ • 608a03e - Update sync logs
+ • 01bffb1 - Rename 'доростм.md' → 'дорасти_до_суммы_.md'
+ • 111c833 - Update 'дорасти_до_суммы_.md'
 
 Syncing changes (2)
- • Add(path=.press/registers/доростм.meta)
- • Add(path=доростм.md)
-   skipping доростм.md (already saved)
+ • Rename(fromPath=.press/registers/доростм.meta, toPath=.press/registers/дорасти_до_суммы_.meta)
+ • Add(path=дорасти_до_суммы_.md)
+   skipping дорасти_до_суммы_.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Sat, 24 Apr 2021 16:26:50 UTC
+Wrapping up sync (before push) on Sat, 24 Apr 2021 16:27:25 UTC
