@@ -1,50 +1,26 @@
-Syncing notes with 'Note10+ пользователя евгений' on Sun, 25 Apr 2021 14:23:13 UTC
-Resetting to sha1: 035cd67 (Update sync logs).
-Pulled upstream. Moved head from 035cd67 - Update sync logs to f412665 - Сказка про накопление.
+Syncing notes with 'Note10+ пользователя евгений' on Mon, 26 Apr 2021 17:47:26 UTC
+Resetting to sha1: 4d4c3d9 (Update freedom.md).
+Pulled upstream. Moved head from 4d4c3d9 - Update freedom.md to 2cbb46f - json.
 
-Pulled changes (6):
- • Add(path=abcOfFinanceAnnuity.md)
- • Add(path=abcOfFinanceHistory.md)
- • Modify(path=abcOfFinanceSimple.md)
- • Add(path=growToTheAmount.md)
- • Rename(fromPath=поток_2_0.md, toPath=steam20.md)
- • Delete(path=дорасти_до_суммы_.md)
+Pulled changes (3):
+ • Add(path=multithreading.md)
+ • Add(path=posts.json)
+ • Modify(path=steam20.md)
 
-Processing commits from 035cd67 to f412665
- • 035cd67 - Update sync logs
- • 918f228 - Update abcOfFinanceSimple.md
- • af4bdfa - Update abcOfFinanceSimple.md
- • ff8b329 - Математика в помощь
- • d38af61 - Merge remote-tracking branch 'origin/master'
- • 91f3039 - убрал лишнее предложить правки
- • 6ec0cce - обнова
- • f607a25 - steam 2.0
- • 7a5547b - История
- • f412665 - Сказка про накопление
+Processing commits from 4d4c3d9 to 2cbb46f
+ • 4d4c3d9 - Update freedom.md
+ • df691b1 - s
+ • 67f8d02 - Merge remote-tracking branch 'origin/master'
+ • 2cbb46f - json
 
-Syncing changes (5)
- • Add(path=abcOfFinanceAnnuity.md)
-   creating new note for abcOfFinanceAnnuity.md with id=3b9e38fd-c25b-4a02-9186-de05ed99de26
- • Add(path=abcOfFinanceHistory.md)
-   creating new note for abcOfFinanceHistory.md with id=d4fb2cde-d7ba-4376-a1e4-f950615634f8
- • Modify(path=abcOfFinanceSimple.md)
-   updating abcOfFinanceSimple.md with id=6db1b80a-d506-410e-ab19-1cf8617ebd53
- • Add(path=growToTheAmount.md)
-   creating new note for growToTheAmount.md with id=e39e270f-b9b9-44ec-9c2d-cd5e581c87d5
- • Rename(fromPath=поток_2_0.md, toPath=steam20.md)
+Syncing changes (3)
+ • Add(path=multithreading.md)
+   creating new note for multithreading.md with id=5c160f75-cc0a-41d5-8f2e-db87a9b75c4d
+ • Add(path=posts.json)
+ • Modify(path=steam20.md)
    updating steam20.md with id=39a2a3e2-af6b-44b1-901c-f82dd07f73ff
-
-Syncing deletions
- • freedom.md
-   can't find file
- • Не по статусу костюмчик.md
-   can't find file
- • дорасти_до_суммы_.md
-   can't find file
- • дорасти_до_суммы_.md
-   permanently deleting NoteId(1a9c6261-e7cb-4075-a01e-e3b2da36686a)
 
 Nothing to commit.
 
 Pushing changes
-Wrapping up sync (before push) on Sun, 25 Apr 2021 14:23:27 UTC
+Wrapping up sync (before push) on Mon, 26 Apr 2021 17:47:30 UTC
