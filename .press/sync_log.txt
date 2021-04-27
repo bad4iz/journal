@@ -1,22 +1,20 @@
-Syncing notes with 'Note10+ пользователя евгений' on Tue, 27 Apr 2021 04:56:34 UTC
-Resetting to sha1: b16402a (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Tue, 27 Apr 2021 04:57:11 UTC
+Resetting to sha1: d4f15e4 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • наездник.md (old = horseman.md, id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d)
+ • наездник.md (id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d)
    creating/updating
 
-Processing commits from b16402a to 08c94d7
- • b16402a - Update sync logs
- • 064b678 - Rename 'horseman.md' → 'наездник.md'
- • 08c94d7 - Update 'наездник.md'
+Processing commits from d4f15e4 to bc9b22a
+ • d4f15e4 - Update sync logs
+ • bc9b22a - Update 'наездник.md'
 
-Syncing changes (2)
- • Rename(fromPath=.press/registers/horseman.meta, toPath=.press/registers/наездник.meta)
- • Rename(fromPath=horseman.md, toPath=наездник.md)
+Syncing changes (1)
+ • Modify(path=наездник.md)
    skipping наездник.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Tue, 27 Apr 2021 04:56:37 UTC
+Wrapping up sync (before push) on Tue, 27 Apr 2021 04:57:14 UTC
