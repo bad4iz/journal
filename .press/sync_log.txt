@@ -1,26 +1,22 @@
-Syncing notes with 'Note10+ пользователя евгений' on Mon, 26 Apr 2021 17:47:26 UTC
-Resetting to sha1: 4d4c3d9 (Update freedom.md).
-Pulled upstream. Moved head from 4d4c3d9 - Update freedom.md to 2cbb46f - json.
+Syncing notes with 'Note10+ пользователя евгений' on Tue, 27 Apr 2021 04:56:34 UTC
+Resetting to sha1: b16402a (Update sync logs).
 
-Pulled changes (3):
- • Add(path=multithreading.md)
- • Add(path=posts.json)
- • Modify(path=steam20.md)
+Nothing to pull.
+Nothing to process.
 
-Processing commits from 4d4c3d9 to 2cbb46f
- • 4d4c3d9 - Update freedom.md
- • df691b1 - s
- • 67f8d02 - Merge remote-tracking branch 'origin/master'
- • 2cbb46f - json
+Committing unsynced notes (1):
+ • наездник.md (old = horseman.md, id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d)
+   creating/updating
 
-Syncing changes (3)
- • Add(path=multithreading.md)
-   creating new note for multithreading.md with id=5c160f75-cc0a-41d5-8f2e-db87a9b75c4d
- • Add(path=posts.json)
- • Modify(path=steam20.md)
-   updating steam20.md with id=39a2a3e2-af6b-44b1-901c-f82dd07f73ff
+Processing commits from b16402a to 08c94d7
+ • b16402a - Update sync logs
+ • 064b678 - Rename 'horseman.md' → 'наездник.md'
+ • 08c94d7 - Update 'наездник.md'
 
-Nothing to commit.
+Syncing changes (2)
+ • Rename(fromPath=.press/registers/horseman.meta, toPath=.press/registers/наездник.meta)
+ • Rename(fromPath=horseman.md, toPath=наездник.md)
+   skipping наездник.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Mon, 26 Apr 2021 17:47:30 UTC
+Wrapping up sync (before push) on Tue, 27 Apr 2021 04:56:37 UTC
