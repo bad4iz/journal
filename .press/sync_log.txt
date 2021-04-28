@@ -1,36 +1,20 @@
-Syncing notes with 'Note10+ пользователя евгений' on Wed, 28 Apr 2021 08:33:55 UTC
-Resetting to sha1: 6cf61f0 (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Wed, 28 Apr 2021 08:34:49 UTC
+Resetting to sha1: 3d98c74 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (3):
- • математика_в_помощь.md (old = abcOfFinanceAnnuity.md, id=3b9e38fd-c25b-4a02-9186-de05ed99de26)
-   creating/updating
- • не_по_статусу_костюмчик.md (old = Не по статусу костюмчик.md, id=b64a4542-42a9-4da6-beb2-a52beac012c0)
-   creating/updating
- • зарплата.md (old = salary.md, id=29d0f61f-7560-401e-8b50-d4412e976020)
+Committing unsynced notes (1):
+ • цель.md (id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
    creating/updating
 
-Processing commits from 6cf61f0 to ce557f6
- • 6cf61f0 - Update sync logs
- • a34fb27 - Rename 'abcOfFinanceAnnuity.md' → 'математика_в_помощь.md'
- • 6ac5656 - Update 'математика_в_помощь.md'
- • 4e5dc74 - Rename 'Не по статусу костюмчик.md' → 'не_по_статусу_костюмчик.md'
- • cbdcf63 - Update 'не_по_статусу_костюмчик.md'
- • 5f2afb1 - Rename 'salary.md' → 'зарплата.md'
- • ce557f6 - Update 'зарплата.md'
+Processing commits from 3d98c74 to 65bff6c
+ • 3d98c74 - Update sync logs
+ • 65bff6c - Update 'цель.md'
 
-Syncing changes (6)
- • Rename(fromPath=.press/registers/salary.meta, toPath=.press/registers/зарплата.meta)
- • Rename(fromPath=.press/registers/abcOfFinanceAnnuity.meta, toPath=.press/registers/математика_в_помощь.meta)
- • Rename(fromPath=.press/registers/Не по статусу костюмчик.meta, toPath=.press/registers/не_по_статусу_костюмчик.meta)
- • Add(path=зарплата.md)
-   skipping зарплата.md (already saved)
- • Rename(fromPath=abcOfFinanceAnnuity.md, toPath=математика_в_помощь.md)
-   skipping математика_в_помощь.md (already saved)
- • Rename(fromPath=Не по статусу костюмчик.md, toPath=не_по_статусу_костюмчик.md)
-   skipping не_по_статусу_костюмчик.md (already saved)
+Syncing changes (1)
+ • Modify(path=цель.md)
+   skipping цель.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Wed, 28 Apr 2021 08:34:00 UTC
+Wrapping up sync (before push) on Wed, 28 Apr 2021 08:34:55 UTC
