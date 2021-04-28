@@ -1,36 +1,36 @@
-Syncing notes with 'Note10+ пользователя евгений' on Wed, 28 Apr 2021 08:33:02 UTC
-Resetting to sha1: ce3b079 (й).
+Syncing notes with 'Note10+ пользователя евгений' on Wed, 28 Apr 2021 08:33:55 UTC
+Resetting to sha1: 6cf61f0 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (3):
- • дорасти_до_свободы.md (old = freedom.md, id=f94016ff-f976-487f-b71d-0dcf4ba9a34b)
+ • математика_в_помощь.md (old = abcOfFinanceAnnuity.md, id=3b9e38fd-c25b-4a02-9186-de05ed99de26)
    creating/updating
- • цель.md (old = target.md, id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
+ • не_по_статусу_костюмчик.md (old = Не по статусу костюмчик.md, id=b64a4542-42a9-4da6-beb2-a52beac012c0)
    creating/updating
- • учимся_планировать_и_копить.md (old = abcOfFinanceSimple.md, id=6db1b80a-d506-410e-ab19-1cf8617ebd53)
+ • зарплата.md (old = salary.md, id=29d0f61f-7560-401e-8b50-d4412e976020)
    creating/updating
 
-Processing commits from ce3b079 to 4962810
- • ce3b079 - й
- • a17f900 - Rename 'freedom.md' → 'дорасти_до_свободы.md'
- • 745fbd6 - Update 'дорасти_до_свободы.md'
- • 034cda6 - Rename 'target.md' → 'цель.md'
- • f3e550e - Update 'цель.md'
- • e9f85d5 - Rename 'abcOfFinanceSimple.md' → 'учимся_планировать_и_копить.md'
- • 4962810 - Update 'учимся_планировать_и_копить.md'
+Processing commits from 6cf61f0 to ce557f6
+ • 6cf61f0 - Update sync logs
+ • a34fb27 - Rename 'abcOfFinanceAnnuity.md' → 'математика_в_помощь.md'
+ • 6ac5656 - Update 'математика_в_помощь.md'
+ • 4e5dc74 - Rename 'Не по статусу костюмчик.md' → 'не_по_статусу_костюмчик.md'
+ • cbdcf63 - Update 'не_по_статусу_костюмчик.md'
+ • 5f2afb1 - Rename 'salary.md' → 'зарплата.md'
+ • ce557f6 - Update 'зарплата.md'
 
 Syncing changes (6)
- • Rename(fromPath=.press/registers/freedom.meta, toPath=.press/registers/дорасти_до_свободы.meta)
- • Rename(fromPath=.press/registers/abcOfFinanceSimple.meta, toPath=.press/registers/учимся_планировать_и_копить.meta)
- • Rename(fromPath=.press/registers/target.meta, toPath=.press/registers/цель.meta)
- • Rename(fromPath=freedom.md, toPath=дорасти_до_свободы.md)
-   skipping дорасти_до_свободы.md (already saved)
- • Rename(fromPath=abcOfFinanceSimple.md, toPath=учимся_планировать_и_копить.md)
-   skipping учимся_планировать_и_копить.md (already saved)
- • Rename(fromPath=target.md, toPath=цель.md)
-   skipping цель.md (already saved)
+ • Rename(fromPath=.press/registers/salary.meta, toPath=.press/registers/зарплата.meta)
+ • Rename(fromPath=.press/registers/abcOfFinanceAnnuity.meta, toPath=.press/registers/математика_в_помощь.meta)
+ • Rename(fromPath=.press/registers/Не по статусу костюмчик.meta, toPath=.press/registers/не_по_статусу_костюмчик.meta)
+ • Add(path=зарплата.md)
+   skipping зарплата.md (already saved)
+ • Rename(fromPath=abcOfFinanceAnnuity.md, toPath=математика_в_помощь.md)
+   skipping математика_в_помощь.md (already saved)
+ • Rename(fromPath=Не по статусу костюмчик.md, toPath=не_по_статусу_костюмчик.md)
+   skipping не_по_статусу_костюмчик.md (already saved)
 
 Pushing changes
-Wrapping up sync (before push) on Wed, 28 Apr 2021 08:33:06 UTC
+Wrapping up sync (before push) on Wed, 28 Apr 2021 08:34:00 UTC
