@@ -1,20 +1,32 @@
-Syncing notes with 'Note10+ пользователя евгений' on Wed, 28 Apr 2021 08:34:49 UTC
-Resetting to sha1: 3d98c74 (Update sync logs).
+Syncing notes with 'Note10+ пользователя евгений' on Fri, 30 Apr 2021 03:14:03 UTC
+Resetting to sha1: 202f100 (Create quotesMementoMori.json).
 
 Nothing to pull.
 Nothing to process.
 
-Committing unsynced notes (1):
- • цель.md (id=e04eaa2c-7b9c-41c2-8ea8-c3ac0812fb22)
+Committing unsynced notes (2):
+ • untitled_note.md (id=783f0f86-3579-4c03-baac-b5195889ce38)
+   creating/updating
+   deleting untitled_note.md
+ • учимся_планировать_и_копить_2.md (old = abcOfFinance.md, id=20b09b55-5508-4e6c-a7e5-f074d9d08ae1)
    creating/updating
 
-Processing commits from 3d98c74 to 65bff6c
- • 3d98c74 - Update sync logs
- • 65bff6c - Update 'цель.md'
+Processing commits from 202f100 to c7a4e52
+ • 202f100 - Create quotesMementoMori.json
+ • 3eaa3d1 - Update 'untitled_note.md'
+ • be6bbc8 - Delete 'untitled_note.md'
+ • 96825ce - Rename 'abcOfFinance.md' → 'учимся_планировать_и_копить_2.md'
+ • c7a4e52 - Update 'учимся_планировать_и_копить_2.md'
 
-Syncing changes (1)
- • Modify(path=цель.md)
-   skipping цель.md (already saved)
+Syncing changes (3)
+ • Add(path=.press/registers/untitled_note.meta)
+ • Rename(fromPath=.press/registers/abcOfFinance.meta, toPath=.press/registers/учимся_планировать_и_копить_2.meta)
+ • Rename(fromPath=abcOfFinance.md, toPath=учимся_планировать_и_копить_2.md)
+   skipping учимся_планировать_и_копить_2.md (already saved)
+
+Syncing deletions
+ • untitled_note.md
+   permanently deleting NoteId(783f0f86-3579-4c03-baac-b5195889ce38)
 
 Pushing changes
-Wrapping up sync (before push) on Wed, 28 Apr 2021 08:34:55 UTC
+Wrapping up sync (before push) on Fri, 30 Apr 2021 03:14:06 UTC
