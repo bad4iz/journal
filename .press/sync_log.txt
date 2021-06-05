@@ -1,32 +1,58 @@
-Syncing notes with 'Note10+ пользователя евгений' on Fri, 30 Apr 2021 03:14:03 UTC
-Resetting to sha1: 202f100 (Create quotesMementoMori.json).
+Syncing notes with 'Note10+ пользователя евгений' on Sat, 05 Jun 2021 15:28:52 UTC
+Resetting to sha1: 9b412e5 (Update sync logs).
+Pulled upstream. Moved head from 9b412e5 - Update sync logs to a2dcd2c - Update target.md.
 
-Nothing to pull.
-Nothing to process.
+Pulled changes (9):
+ • Rename(fromPath=учимся_планировать_и_копить.md, toPath=abcOfFinanceSimple.md)
+ • Rename(fromPath=дорасти_до_свободы.md, toPath=freedom.md)
+ • Modify(path=horseman.md)
+ • Modify(path=posts.json)
+ • Rename(fromPath=зарплата.md, toPath=salary.md)
+ • Add(path=target.md)
+ • Add(path=when.md)
+ • Add(path=нельсон ха ха.jpg)
+ • Delete(path=цель.md)
 
-Committing unsynced notes (2):
- • untitled_note.md (id=783f0f86-3579-4c03-baac-b5195889ce38)
-   creating/updating
-   deleting untitled_note.md
- • учимся_планировать_и_копить_2.md (old = abcOfFinance.md, id=20b09b55-5508-4e6c-a7e5-f074d9d08ae1)
-   creating/updating
+Processing commits from 9b412e5 to a2dcd2c
+ • 9b412e5 - Update sync logs
+ • fe97999 - Update цель.md
+ • 926db91 - Rename цель.md to target.md
+ • 4c4d260 - Add files via upload
+ • 13a9822 - Create when.md
+ • 8e55c18 - Update posts.json
+ • 248d92b - Update when.md
+ • 93c9dc8 - Update when.md
+ • 08c3fac - Update target.md
+ • 034d4f1 - Update target.md
+ • 71fd347 - Rename учимся_планировать_и_копить.md to abcOfFinanceSimple
+ • e96d326 - Rename abcOfFinanceSimple to abcOfFinanceSimple.md
+ • 3a9d5de - Rename дорасти_до_свободы.md to freedom.md
+ • d1ab468 - Rename зарплата.md to salary.md
+ • 9195e5d - Update target.md
+ • a7290a4 - Update horseman.md
+ • a45c319 - Update horseman.md
+ • c916670 - Update horseman.md
+ • 540bef7 - Update target.md
+ • a52caa3 - Update target.md
+ • a2dcd2c - Update target.md
 
-Processing commits from 202f100 to c7a4e52
- • 202f100 - Create quotesMementoMori.json
- • 3eaa3d1 - Update 'untitled_note.md'
- • be6bbc8 - Delete 'untitled_note.md'
- • 96825ce - Rename 'abcOfFinance.md' → 'учимся_планировать_и_копить_2.md'
- • c7a4e52 - Update 'учимся_планировать_и_копить_2.md'
+Syncing changes (8)
+ • Rename(fromPath=учимся_планировать_и_копить.md, toPath=abcOfFinanceSimple.md)
+   updating abcOfFinanceSimple.md with id=6db1b80a-d506-410e-ab19-1cf8617ebd53
+ • Rename(fromPath=дорасти_до_свободы.md, toPath=freedom.md)
+   updating freedom.md with id=f94016ff-f976-487f-b71d-0dcf4ba9a34b
+ • Modify(path=horseman.md)
+   updating horseman.md with id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d
+ • Modify(path=posts.json)
+ • Rename(fromPath=зарплата.md, toPath=salary.md)
+   updating salary.md with id=29d0f61f-7560-401e-8b50-d4412e976020
+ • Add(path=target.md)
+   creating new note for target.md with id=46b305cb-5e2f-48bd-8634-83a82243de44
+ • Add(path=when.md)
+   creating new note for when.md with id=66980790-0f17-4e85-bdff-3e1308551e70
+ • Add(path=нельсон ха ха.jpg)
 
-Syncing changes (3)
- • Add(path=.press/registers/untitled_note.meta)
- • Rename(fromPath=.press/registers/abcOfFinance.meta, toPath=.press/registers/учимся_планировать_и_копить_2.meta)
- • Rename(fromPath=abcOfFinance.md, toPath=учимся_планировать_и_копить_2.md)
-   skipping учимся_планировать_и_копить_2.md (already saved)
-
-Syncing deletions
- • untitled_note.md
-   permanently deleting NoteId(783f0f86-3579-4c03-baac-b5195889ce38)
+Nothing to commit.
 
 Pushing changes
-Wrapping up sync (before push) on Fri, 30 Apr 2021 03:14:06 UTC
+Wrapping up sync (before push) on Sat, 05 Jun 2021 15:29:02 UTC
