@@ -79,6 +79,11 @@
                     "title": "Содержание",
                     "path": "whiteCollar.contents",
                     "text": ""
+                },
+                {
+                    "title": "Введение",
+                    "path": "whiteCollar.intro",
+                    "text": ""
                 }
               ]
         }
