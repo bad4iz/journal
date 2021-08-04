@@ -77,12 +77,12 @@
               "children": [
                 {
                     "title": "Содержание",
-                    "path": "whiteCollar.contents",
+                    "path": "white-collar-contents",
                     "text": ""
                 },
                 {
                     "title": "Введение",
-                    "path": "whiteCollar.intro",
+                    "path": "white-collar-intro",
                     "text": ""
                 }
               ]
