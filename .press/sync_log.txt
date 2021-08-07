@@ -1,58 +1,44 @@
-Syncing notes with 'Note10+ пользователя евгений' on Sat, 05 Jun 2021 15:28:52 UTC
-Resetting to sha1: 9b412e5 (Update sync logs).
-Pulled upstream. Moved head from 9b412e5 - Update sync logs to a2dcd2c - Update target.md.
+Syncing notes with 'Note10+ пользователя евгений' on Sat, 07 Aug 2021 09:47:59 UTC
+Resetting to sha1: 04e1967 (цель).
+Pulled upstream. Moved head from 04e1967 - цель to 55c0404 - Update whiteCollarIntro.md.
 
-Pulled changes (9):
- • Rename(fromPath=учимся_планировать_и_копить.md, toPath=abcOfFinanceSimple.md)
- • Rename(fromPath=дорасти_до_свободы.md, toPath=freedom.md)
- • Modify(path=horseman.md)
+Pulled changes (3):
  • Modify(path=posts.json)
- • Rename(fromPath=зарплата.md, toPath=salary.md)
- • Add(path=target.md)
- • Add(path=when.md)
- • Add(path=нельсон ха ха.jpg)
- • Delete(path=цель.md)
+ • Add(path=whiteCollarContents.md)
+ • Add(path=whiteCollarIntro.md)
 
-Processing commits from 9b412e5 to a2dcd2c
- • 9b412e5 - Update sync logs
- • fe97999 - Update цель.md
- • 926db91 - Rename цель.md to target.md
- • 4c4d260 - Add files via upload
- • 13a9822 - Create when.md
- • 8e55c18 - Update posts.json
- • 248d92b - Update when.md
- • 93c9dc8 - Update when.md
- • 08c3fac - Update target.md
- • 034d4f1 - Update target.md
- • 71fd347 - Rename учимся_планировать_и_копить.md to abcOfFinanceSimple
- • e96d326 - Rename abcOfFinanceSimple to abcOfFinanceSimple.md
- • 3a9d5de - Rename дорасти_до_свободы.md to freedom.md
- • d1ab468 - Rename зарплата.md to salary.md
- • 9195e5d - Update target.md
- • a7290a4 - Update horseman.md
- • a45c319 - Update horseman.md
- • c916670 - Update horseman.md
- • 540bef7 - Update target.md
- • a52caa3 - Update target.md
- • a2dcd2c - Update target.md
+Processing commits from 04e1967 to 55c0404
+ • 04e1967 - цель
+ • 548449e - whiteCollar
+ • ab4d678 - Create whiteCollar.md
+ • 2d4afa0 - Update posts.json
+ • 1f28fc5 - Update posts.json
+ • 7284f98 - Update posts.json
+ • 517a4b6 - Update and rename whiteCollar.md to whiteCollar.contents.md
+ • 62201ce - Update whiteCollar.contents.md
+ • 0c8d21e - Update posts.json
+ • f133c0d - Update posts.json
+ • 5a075f6 - Create whiteCollar.intro.md
+ • aa80694 - Update posts.json
+ • 198b776 - Rename whiteCollar.contents.md to whiteCollarContents.md
+ • 0266233 - Rename whiteCollar.intro.md to whiteCollarIntro.md
+ • d503beb - Update whiteCollarIntro.md
+ • b68a7a2 - Update whiteCollarContents.md
+ • 9364a67 - Update whiteCollarIntro.md
+ • 55c0404 - Update whiteCollarIntro.md
 
-Syncing changes (8)
- • Rename(fromPath=учимся_планировать_и_копить.md, toPath=abcOfFinanceSimple.md)
-   updating abcOfFinanceSimple.md with id=6db1b80a-d506-410e-ab19-1cf8617ebd53
- • Rename(fromPath=дорасти_до_свободы.md, toPath=freedom.md)
-   updating freedom.md with id=f94016ff-f976-487f-b71d-0dcf4ba9a34b
- • Modify(path=horseman.md)
-   updating horseman.md with id=4ca7346c-dec2-4e6f-9809-e18d54fdc14d
+Syncing changes (3)
  • Modify(path=posts.json)
- • Rename(fromPath=зарплата.md, toPath=salary.md)
-   updating salary.md with id=29d0f61f-7560-401e-8b50-d4412e976020
- • Add(path=target.md)
-   creating new note for target.md with id=46b305cb-5e2f-48bd-8634-83a82243de44
- • Add(path=when.md)
-   creating new note for when.md with id=66980790-0f17-4e85-bdff-3e1308551e70
- • Add(path=нельсон ха ха.jpg)
+ • Add(path=whiteCollarContents.md)
+   creating new note for whiteCollarContents.md with id=9d243d3b-3ba8-4f36-9a1f-fe3e5754b552
+ • Add(path=whiteCollarIntro.md)
+   creating new note for whiteCollarIntro.md with id=dd671572-be8b-4dae-a81b-0eaeb72fb7ed
+
+Syncing deletions
+ • whiteCollar.md
+   can't find file
 
 Nothing to commit.
 
 Pushing changes
-Wrapping up sync (before push) on Sat, 05 Jun 2021 15:29:02 UTC
+Wrapping up sync (before push) on Sat, 07 Aug 2021 09:48:02 UTC
