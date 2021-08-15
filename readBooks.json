@@ -7,7 +7,9 @@
     "date": "02.10.2020",
     "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
     "verdict": "good",
-    "description": "o tom o sem"
+    "description": "o tom o sem",
+    "litres": "https://www.litres.ru/robin-nikson/sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5",
+    "livelib": "https://www.livelib.ru/book/1000327132-zhenschiny-kotorye-lyubyat-slishkom-silno-robin-norvud"
    },
     {
      "id": 6,
