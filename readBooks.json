@@ -4,7 +4,7 @@
      "id": 177,
      "name": "Антология «мировой закулисы»",
      "author": "Генри Киссинджер, Дэвид Рокфеллер, Ги де Ротшильд, Збигнев Бжезинский, Джордж Сорос",
-    "date": "02.10.2020",
+    "date": "13.08.2021",
     "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_200/18531661-genri-kissindzher-antologiya-mirovoy-zakulisy.jpg",
     "verdict": "можно",
     "description": "",
@@ -12,22 +12,22 @@
     "livelib": ""
    },
     {
-     "id": 6,
-     "name": "Финансы",
-     "author": "super author",
-    "date": "02.10.2020",
-    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
-    "verdict": "good",
+     "id": 176,
+     "name": "Думай как математик. Как решать любые задачи быстрее и эффективнее",
+     "author": "Барбара Оакли",
+    "date": "04.08.2021",
+    "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_200/15561452-barbara-oakli-dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee.jpg",
+    "verdict": "Очень даже стоит",
     "description": "o tom o sem"
    },
     {
-     "id": 5,
-     "name": "Финансы",
-     "author": "super author",
-    "date": "02.10.2020",
-    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
-    "verdict": "good",
-    "description": "o tom o sem"
+     "id": 175,
+     "name": "Гении и аутсайдеры. Почему одним все, а другим ничего?",
+     "author": "Малкольм Гладуэлл",
+    "date": "20.07.2021",
+    "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_200/4519228-malkolm-gladuell-genii-i-autsaydery.jpg",
+    "verdict": "В обязательном порядке",
+    "description": ""
    },
     {
      "id": 4,
