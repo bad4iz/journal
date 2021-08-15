@@ -58,11 +58,11 @@
    },
     {
      "id": 1,
-     "name": "Финансы",
-     "author": "super author",
-    "date": "02.10.2020",
-    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
-    "verdict": "good",
+     "name": "О чем я говорю когда говорю о беге",
+     "author": "Харуки Мураками",
+    "date": "26.01.2020",
+    "img": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_200/7607975-haruki-murakami-o-chem-ya-govoru-kogda-govoru-o-bege.jpg",
+    "verdict": "",
     "description": "o tom o sem"
    }
  ] 
