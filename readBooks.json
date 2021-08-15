@@ -1,15 +1,15 @@
 {
  "books": [
    {
-     "id": 7,
-     "name": "Финансы",
-     "author": "super author",
+     "id": 177,
+     "name": "Антология «мировой закулисы»",
+     "author": "Генри Киссинджер, Дэвид Рокфеллер, Ги де Ротшильд, Збигнев Бжезинский, Джордж Сорос",
     "date": "02.10.2020",
-    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
-    "verdict": "good",
-    "description": "o tom o sem",
-    "litres": "https://www.litres.ru/robin-nikson/sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5",
-    "livelib": "https://www.livelib.ru/book/1000327132-zhenschiny-kotorye-lyubyat-slishkom-silno-robin-norvud"
+    "img": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_200/7607975-haruki-murakami-o-chem-ya-govoru-kogda-govoru-o-bege.jpg",
+    "verdict": "можно",
+    "description": "",
+    "litres": "",
+    "livelib": ""
    },
     {
      "id": 6,
