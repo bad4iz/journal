@@ -1,6 +1,60 @@
 {
  "books": [
    {
+     "id": 7,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
+     "id": 6,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
+     "id": 5,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
+     "id": 4,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
+     "id": 3,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
+     "id": 2,
+     "name": "Финансы",
+     "author": "super author",
+    "date": "02.10.2020",
+    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "verdict": "good",
+    "description": "o tom o sem"
+   },
+    {
      "id": 1,
      "name": "Финансы",
      "author": "super author",
