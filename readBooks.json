@@ -1,5 +1,17 @@
 {
  "books": [
+
+   {
+     "id": 20210818,
+     "name": "{Вы не знаете JS} Типы и грамматические конструкции",
+     "author": "Кайл Симпсон",
+    "date": "18.08.2021",
+    "img": "https://cv1.litres.ru/pub/c/pdf-kniga/cover_200/43123815-kayl-simpson-vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815.jpg",
+    "verdict": "очень даже нужно. Но тем кто в теме",
+    "description": "",
+    "litres": "https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815/",
+    "livelib": "https://www.livelib.ru/book/1003033793-vy-ne-znaete-js-tipy-i-grammaticheskie-konstruktsii-kajl-simpson"
+   },
    {
      "id": 177,
      "name": "Антология «мировой закулисы»",
