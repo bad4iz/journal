@@ -1,81 +1,205 @@
 {
- "books": [
+  "books": [
+    {
+      "id": 20210818,
+      "name": "{Вы не знаете JS} Типы и грамматические конструкции",
+      "author": "Кайл Симпсон",
+      "date": "18.08.2021",
+      "img": "https://cv1.litres.ru/pub/c/pdf-kniga/cover_200/43123815-kayl-simpson-vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815.jpg",
+      "verdict": "очень даже нужно. Но тем кто в теме",
+      "description": "",
+      "litres": "https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815/",
+      "livelib": "https://www.livelib.ru/book/1003033793-vy-ne-znaete-js-tipy-i-grammaticheskie-konstruktsii-kajl-simpson"
+    },
+    {
+      "id": 177,
+      "name": "Антология «мировой закулисы»",
+      "author": "Генри Киссинджер, Дэвид Рокфеллер, Ги де Ротшильд, Збигнев Бжезинский, Джордж Сорос",
+      "date": "13.08.2021",
+      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_200/18531661-genri-kissindzher-antologiya-mirovoy-zakulisy.jpg",
+      "verdict": "можно",
+      "description": "",
+      "litres": "",
+      "livelib": ""
+    },
+    {
+      "id": 176,
+      "name": "Думай как математик. Как решать любые задачи быстрее и эффективнее",
+      "author": "Барбара Оакли",
+      "date": "04.08.2021",
+      "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_200/15561452-barbara-oakli-dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee.jpg",
+      "verdict": "Очень даже стоит",
+      "description": "o tom o sem"
+    },
+    {
+      "id": 175,
+      "name": "Гении и аутсайдеры. Почему одним все, а другим ничего?",
+      "author": "Малкольм Гладуэлл",
+      "date": "20.07.2021",
+      "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_200/4519228-malkolm-gladuell-genii-i-autsaydery.jpg",
+      "verdict": "В обязательном порядке",
+      "description": ""
+    },
+    {
+      "id": 174,
+      "name": "Честно о нечестности.Почему мы лжем всем и особенно себе",
+      "author": "Дэн Ариели",
+      "date": "17.07.2021",
+      "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_200/48841230-den-arieli-chestno-o-nechestnosti.jpg",
+      "verdict": "Интересная",
+      "description": ""
+    },
+    {
+      "id": 173,
+      "name": "Законы победителей",
+      "author": "Бодо Шефер",
+      "date": "14.07.2021",
+      "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_200/21124436-bodo-shefer-zakony-pobediteley.jpg",
+      "verdict": "Очень хорошая",
+      "description": ""
+    },
 
-   {
-     "id": 20210818,
-     "name": "{Вы не знаете JS} Типы и грамматические конструкции",
-     "author": "Кайл Симпсон",
-    "date": "18.08.2021",
-    "img": "https://cv1.litres.ru/pub/c/pdf-kniga/cover_200/43123815-kayl-simpson-vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815.jpg",
-    "verdict": "очень даже нужно. Но тем кто в теме",
-    "description": "",
-    "litres": "https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815/",
-    "livelib": "https://www.livelib.ru/book/1003033793-vy-ne-znaete-js-tipy-i-grammaticheskie-konstruktsii-kajl-simpson"
-   },
-   {
-     "id": 177,
-     "name": "Антология «мировой закулисы»",
-     "author": "Генри Киссинджер, Дэвид Рокфеллер, Ги де Ротшильд, Збигнев Бжезинский, Джордж Сорос",
-    "date": "13.08.2021",
-    "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_200/18531661-genri-kissindzher-antologiya-mirovoy-zakulisy.jpg",
-    "verdict": "можно",
-    "description": "",
-    "litres": "",
-    "livelib": ""
-   },
+
+
+
     {
-     "id": 176,
-     "name": "Думай как математик. Как решать любые задачи быстрее и эффективнее",
-     "author": "Барбара Оакли",
-    "date": "04.08.2021",
-    "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_200/15561452-barbara-oakli-dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee.jpg",
-    "verdict": "Очень даже стоит",
-    "description": "o tom o sem"
-   },
+      "id": 20210214,
+      "name": "Нет оправданий! Сила самодисциплины. 21 путь к стабильному успеху и счастью",
+      "author": "Брайан Трейси",
+      "date": "14.02.2021",
+      "img": "https://cv4.litres.ru/pub/c/elektronnaya-kniga/cover_415/21124444-brayan-treysi-net-opravdaniy-sila-samodiscipliny-21-put-k-stabilnomu-uspeh.jpg",
+      "verdict": "Отличная",
+      "description": "Каждая из 21 глав книги показывает, как повысить уровень дисциплинированности в каком-то одном аспекте жизни, а предлагаемые в конце главы практические упражнения помогут вам применить подход «отказа от оправданий» в вашей собственной жизни. Освоение навыков самодисциплины принесет вам громадную пользу… поэтому прекратите искать оправдания и прочтите эту книгу!",
+      "litres": "https://www.litres.ru/brayan-treysi/net-opravdaniy-sila-samodiscipliny-21-put-k-stabilnomu-uspeh/",
+      "livelib": "",
+      "type": "бумажная книга"
+
+    },
+
+
     {
-     "id": 175,
-     "name": "Гении и аутсайдеры. Почему одним все, а другим ничего?",
-     "author": "Малкольм Гладуэлл",
-    "date": "20.07.2021",
-    "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_200/4519228-malkolm-gladuell-genii-i-autsaydery.jpg",
-    "verdict": "В обязательном порядке",
-    "description": ""
-   },
+      "id": 20210213,
+      "name": "Роман с едой",
+      "author": "Андрей Курпатов",
+      "date": "13.02.2021",
+      "img": "https://cv5.litres.ru/pub/c/audiokniga/cover_415/37661055-andrey-kurpatov-roman-s-edoy-37661055.jpg",
+      "verdict": "good",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/roman-s-edoy-37661055/",
+      "livelib": "",
+      "type": "аудиокнига"
+
+    },
+
+
     {
-     "id": 174,
-     "name": "Честно о нечестности.Почему мы лжем всем и особенно себе",
-     "author": "Дэн Ариели",
-    "date": "17.07.2021",
-    "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_200/48841230-den-arieli-chestno-o-nechestnosti.jpg",
-    "verdict": "Интересная",
-    "description": ""
-   },
+      "id": 20210211,
+      "name": "С Нового года не получится",
+      "author": "Андрей Курпатов",
+      "date": "11.02.2021",
+      "img": "https://cv8.litres.ru/pub/c/audiokniga/cover_415/37661087-andrey-kurpatov-s-novogo-goda-ne-poluchitsya-37661087.jpg",
+      "verdict": "Отличная",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/s-novogo-goda-ne-poluchitsya-37661087/",
+      "livelib": "",
+      "type": "аудиокнига"
+
+    },
+
+
+
     {
-     "id": 173,
-     "name": "Законы победителей",
-     "author": "Бодо Шефер",
-    "date": "14.07.2021",
-    "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_200/21124436-bodo-shefer-zakony-pobediteley.jpg",
-    "verdict": "Очень хорошая",
-    "description": ""
-   },
+      "id": 20210208,
+      "name": "Лекция «Люди, которые живут в моей голове»",
+      "author": "Андрей Курпатов",
+      "date": "08.02.2021",
+      "img": "https://cv7.litres.ru/pub/c/audiokniga/cover_415/22477971-andrey-kurpatov-lekciya-ludi-kotorye-zhivut-v-moey-golove-22477971.jpg",
+      "verdict": "Интересная",
+      "description": "Поговорим об устройстве нашего мозга и «кто» там живет? Эмоции – как в мультфильме «Головоломка» или настоящие другие люди? Удивительное открытие, которое было сделано выдающимся исследователем мозга Маркусом Рейчелом, говорит о том, что, действительно, в нашей голове проживают другие люди.",
+      "litres": "https://www.litres.ru/andrey-kurpatov/lekciya-ludi-kotorye-zhivut-v-moey-golove-22477971/",
+      "livelib": "https://www.livelib.ru/book/1002082967-lektsiya-lyudi-kotorye-zhivut-v-moej-golove-andrej-kurpatov",
+      "type": "аудиокнига"
+    },
     {
-     "id": 2,
-     "name": "Финансы",
-     "author": "super author",
-    "date": "02.10.2020",
-    "img": "https://cv4.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
-    "verdict": "good",
-    "description": "o tom o sem"
-   },
+      "id": 20210206,
+      "name": "7 интимных тайн. Психология сексуальности. Книга 2",
+      "author": "Андрей Курпатов",
+      "date": "06.02.2021",
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fab%2Fef%2F57%2Fabef57b1177cabb954f76774ad752df8.jpg&f=1&nofb=1",
+      "verdict": "2 книга обязательно читать",
+      "description": "\"Тайны Адама и Евы\" - это уникальный шанс решить свои проблемы в интимной жизни не выходя из дома. Женщинам и мужчинам, молодым людям и супругам со стажем Андрей Курпатов даст совет и снабдит подходящей случаю эффективной методикой. Еще четыре важных шага к вашей сексуальной гармонии - во втором томе книги!",
+      "litres": "",
+      "livelib": "https://www.livelib.ru/book/1000382532-7-intimnyh-tajn-psihologiya-seksualnosti-kniga-2-kurpatov-av",
+      "type": "аудиокнига"
+
+    },
+
     {
-     "id": 1,
-     "name": "О чем я говорю когда говорю о беге",
-     "author": "Харуки Мураками",
-    "date": "26.01.2020",
-    "img": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_200/7607975-haruki-murakami-o-chem-ya-govoru-kogda-govoru-o-bege.jpg",
-    "verdict": "",
-    "description": "o tom o sem"
-   }
- ] 
+      "id": 20210202,
+      "name": "7 интимных тайн. Психология сексуальности. Книга 1",
+      "author": "Андрей Курпатов",
+      "date": "02.02.2021",
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fab%2Fef%2F57%2Fabef57b1177cabb954f76774ad752df8.jpg&f=1&nofb=1",
+      "verdict": "",
+      "description": "\"Тайны Адама и Евы\" - это уникальный шанс решить свои проблемы в интимной жизни не выходя из дома. Женщинам и мужчинам, молодым людям и супругам со стажем Андрей Курпатов даст совет и снабдит подходящей случаю эффективной методикой. Еще четыре важных шага к вашей сексуальной гармонии - во втором томе книги!",
+      "litres": "",
+      "livelib": "https://www.livelib.ru/book/1000382533-7-intimnyh-tajn-psihologiya-seksualnosti-kniga-1-andrej-kurpatov",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 20210131,
+      "name": "7 навыков высокоэффективных семей",
+      "author": "Стивен Кови",
+      "date": "31.01.2021",
+      "img": "https://cv0.litres.ru/pub/c/audiokniga/cover_415/10943105--.jpg",
+      "verdict": "Очень даже нужная",
+      "description": "Знаменитая система Стивена Кови «7 навыков» изменила жизнь тысяч людей во всем мире. Применение 7 принципов оказалось чрезвычайно результативным во всех сферах деятельности человека, в том числе и личной и семейной жизни. Перед вами – вторая часть книги Стивена Кови «7 навыков высокоэффективных семей». Автор – многодетный отец, который не понаслышке знает, как непросто воспитать по-настоящему счастливых и достойных детей. Но Стивену Кови это удалось, ведь не зря его большая семья вспоминает его с невероятным теплом, уважением и благодарностью. И, как признаются его дети и внуки, секрет, в том числе, и в применении в личной жизни самого Кови его знаменитой системы 7 навыков! Прослушав вторую часть книги «7 навыков высокоэффективных семей», вы узнаете: – Что значит мыслить в духе обоюдной победы и как это может помочь в отношениях; – Как научиться понимать других людей и делать так, чтобы поняли вас; – Как действовать совместно при решении семейных вопросов; – Как создать и развить гармоничную, дружную и крепкую семью; – Как добиться стабильности и спокойствия в отношениях с близкими людьми.\n\nСлушайте аудиокнигу «7навыков высокоэффективных семей», выполняйте вместе с родными рекомендации и становитесь счастливее!",
+      "litres": "https://www.litres.ru/stiven-kovi/7-navykov-vysokoeffektivnyh-semey-chast-2-10943105/",
+      "livelib": "https://www.livelib.ru/book/1001533080-7-navykov-vysokoeffektivnyh-semej-stiven-r-kovi",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 20210130,
+      "name": "Управление гневом. Как не выходить из себя, спокойно реагировать на все и справиться с самой разрушительной эмоцией",
+      "author": "Альберт Эллис, Раймонд Чип Тафрейт",
+      "date": "30.01.2021",
+      "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/57879858-ellis-albert-upravlenie-gnevom-kak-ne-vyhodit-iz-sebya-spokoyno-reagirovat.jpg",
+      "verdict": "хорошая",
+      "description": "Не можете справиться с собственным гневом?\nКто-то из ваших близких постоянно кричит, возмущается, впадает в ярость?\nМежду вами и окружающими чуть что вспыхивают искры?\nВ книге, которая уже помогла миллионам читателей взять гнев в узду, всемирно известный психотерапевт Альберт Эллис рассказывает, как вы можете стать более уравновешенными. Бесконтрольный гнев способен причинить огромный ущерб жизни. Результатом его проявлений бывают разрушенные отношения, потерянные рабочие места, даже серьезные болезни.\nНесложные советы и упражнения помогут понять корни и природу гнева, а также взять его под контроль и перестать попусту гневаться.",
+      "litres": "https://www.litres.ru/ellis-albert/upravlenie-gnevom-kak-ne-vyhodit-iz-sebya-spokoyno-reagirovat/",
+      "livelib": "https://www.livelib.ru/book/1005997609-upravlenie-gnevom-kak-ne-vyhodit-iz-sebya-spokojno-reagirovat-na-vsjo-i-spravitsya-s-samoj-razrushitelnoj-emotsiej-albert-ellis",
+      "type": "бумажная"
+    },
+    {
+      "id": 20210129,
+      "name": "Обида. Вина",
+      "author": "Ю. М. Орлов",
+      "date": "29.01.2021",
+      "img": "https://s1.livelib.ru/boocover/1000201116/o/670b/Yu._M._Orlov__Obida._Vina.jpeg",
+      "verdict": "В обязательном порядке всем",
+      "description": "Сохранение чувств и отношений, равно как и здоровья невозможно, — заверяет издатель, — без коренного улучшения способа мышления, посредством которого вы оцениваете и переживаете возникающие в вашей жизни события. В представленной работе показаны",
+      "litres": "",
+      "livelib": "https://www.livelib.ru/book/1000201116-obida-vina-yu-m-orlov"
+    },
+    {
+      "id": 20210127,
+      "name": "Хюгге. Датское искусство счастья",
+      "author": "Автор: Мари Турелл Содерберг",
+      "date": "27.01.2021",
+      "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_330/25562527-mari-turell-soderberg-hugge-datskoe-iskusstvo-schastya.jpg",
+      "verdict": "good",
+      "description": "Хюгге – это умение видеть волшебство в обыкновенном. Для датчан это главная жизненная философия. Чтобы написать эту книгу, Мари Содерберг отправилась в путешествие по всей Дании, чтобы узнать у простых датчан, что для них значит хюгге и как они создают уют хюгге в своей жизни.",
+      "litres": "https://www.litres.ru/mari-turell-soderberg/hugge-datskoe-iskusstvo-schastya/",
+      "livelib": "https://www.livelib.ru/book/1002507521-hyugge-datskoe-iskusstvo-schastya-mari-sjoderberg"
+    },
+    {
+      "id": 1,
+      "name": "О чем я говорю когда говорю о беге",
+      "author": "Харуки Мураками",
+      "date": "26.01.2021",
+      "img": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_200/7607975-haruki-murakami-o-chem-ya-govoru-kogda-govoru-o-bege.jpg",
+      "verdict": "",
+      "description": "Книга самого знаменитого мастера современной японской литературы, собрание, по его словам, «зарисовок о беге, но никак не секретов здорового образа жизни». С той же фирменной легкостью и недосказанностью, виртуозно балансируя на грани бытового очерка и аллегории, Мураками фиксирует свои размышления о беге, приобретающем в силу ежедневного повторения «некую медитативную сущность». «Искренне писать о беге, – говорит он, – означает искренне писать о самом себе»."
+    }
+  ]
 }
