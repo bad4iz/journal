@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "id": 20210818,
-      "name": "{Вы не знаете JS} Типы и грамматические конструкции",
-      "author": "Кайл Симпсон",
-      "date": "18.08.2021",
-      "img": "https://cv1.litres.ru/pub/c/pdf-kniga/cover_200/43123815-kayl-simpson-vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815.jpg",
-      "verdict": "очень даже нужно. Но тем кто в теме",
+      "id": 20210823,
+      "name": "Секс в человеческой любви",
+      "author": "Эрик Берн",
+      "date": "23.08.2021",
+      "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_200/145151-erik-bern-seks-v-chelovecheskoy-lubvi.jpg",
+      "verdict": "можно есть стоящие мысли",
       "description": "",
-      "litres": "https://www.litres.ru/kayl-simpson/vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815/",
-      "livelib": "https://www.livelib.ru/book/1003033793-vy-ne-znaete-js-tipy-i-grammaticheskie-konstruktsii-kajl-simpson"
+      "litres": "https://www.litres.ru/erik-bern/seks-v-chelovecheskoy-lubvi/chitat-onlayn/",
+      "livelib": ""
     },
     {
       "id": 20210813,
