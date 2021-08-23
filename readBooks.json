@@ -1,10 +1,21 @@
 {
   "books": [
-    {
+     {
       "id": 20210823,
+      "name": "Счастлив по собственному желанию. 12 шагов к душевному здоровью",
+      "author": "Андрей Курпатов",
+      "date": "23.08.2021",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_415/29420917-andrey-kurpatov-schastliv-po-sobstvennomu-zhelaniu-12-shagov-k-du-29420917.jpg",
+      "verdict": "",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/schastliv-po-sobstvennomu-zhelaniu-12-shagov-k-du-29420917/",
+      "livelib": ""
+    },
+    {
+      "id": 20210822,
       "name": "Секс в человеческой любви",
       "author": "Эрик Берн",
-      "date": "23.08.2021",
+      "date": "22.08.2021",
       "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_200/145151-erik-bern-seks-v-chelovecheskoy-lubvi.jpg",
       "verdict": "можно есть стоящие мысли",
       "description": "",
