@@ -681,7 +681,7 @@
 
 
     {
-      "id": 20201115,
+      "id": 202011151,
       "name": "Книга о власти над собой",
       "author": "Энтони Роббинс",
       "date": "15.11.2020",
@@ -1034,7 +1034,7 @@
 
 
     {
-      "id": 20200820,
+      "id": 202008201,
       "name": "Ваш сосед - миллионер",
       "author": "Томас Дж. Стэнли, Уильям Д. Данко ",
       "date": "20.08.2020",
@@ -1173,10 +1173,10 @@
 
 
     {
-      "id": 20201209,
+      "id": 20191209,
       "name": "Шесть шляп мышления",
       "author": "Эдвард де Боно",
-      "date": "09.12.2020",
+      "date": "09.12.2019",
       "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_330/18706438-edvard-de-bono-shest-shlyap-myshleniya-18706438.jpg",
       "verdict": "",
       "description": "",
@@ -1186,10 +1186,10 @@
     },
 
     {
-      "id": 20201202,
+      "id": 20191202,
       "name": "Восхождение к индивидуальности",
       "author": "Орлов Юрий Михайлович",
-      "date": "02.12.2020",
+      "date": "02.12.2019",
       "img": "https://s1.livelib.ru/boocover/1000218231/o/066d/Orlov_Yurij_Mihajlovich__Voshozhdenie_k_individualnosti.jpeg",
       "verdict": "Фундаментальная обязательно ",
       "description": "",
@@ -1198,10 +1198,10 @@
       "type": "электронная книга"
     },
     {
-      "id": 20201201,
+      "id": 20191201,
       "name": "t",
       "author": "Виктор Пелевин",
-      "date": "01.12.2020",
+      "date": "01.12.2019",
       "img": "https://cv6.litres.ru/pub/c/audiokniga/cover_330/26117967-viktor-pelevin-t-26117967.jpg",
       "verdict": "",
       "description": "",
@@ -1210,10 +1210,10 @@
       "type": "аудиокнига"
     },
     {
-      "id": 20201126,
+      "id": 20191126,
       "name": "Так говорил Заратустра",
       "author": "Фридрих Вильгельм Ницше",
-      "date": "26.11.2020",
+      "date": "26.11.2019",
       "img": "https://cv4.litres.ru/pub/c/audiokniga/cover_330/301242-fridrih-vilgelm-nicshe-tak-govoril-zaratustra-301242.jpg",
       "verdict": "",
       "description": "",
@@ -1222,10 +1222,10 @@
       "type": "аудиокнига"
     },
     {
-      "id": 20201125,
+      "id": 20191125,
       "name": "21 урок для XXI века",
       "author": "Юваль Ной Харари",
-      "date": "25.11.2020",
+      "date": "25.11.2019",
       "img": "https://cv5.litres.ru/pub/c/audiokniga/cover_415/43318751--.jpg",
       "verdict": "отличная",
       "description": "",
@@ -1234,10 +1234,10 @@
       "type": "аудиокнига"
     },
     {
-      "id": 20201120,
+      "id": 20191120,
       "name": "Антихрупкость. Как извлечь выгоду из хаоса",
       "author": "Нассим Николас Талеб",
-      "date": "20.11.2020",
+      "date": "20.11.2019",
       "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_415/36309932-nassim-nikolas-taleb-antihrupkost-kak-izvlech-vygodu-iz-haosa-36309932.jpg",
       "verdict": "фундаментальная обязательно",
       "description": "",
@@ -1246,10 +1246,10 @@
       "type": "аудиокнига"
     },
     {
-      "id": 20201120,
+      "id": 20191120,
       "name": "Голые деньги. Откровенная книга о финансовой системе",
       "author": "Чарльз Уилан",
-      "date": "20.11.2020",
+      "date": "20.11.2019",
       "img": "https://s1.livelib.ru/boocover/1002895180/o/9465/Charlz_Uilan__Golye_dengi._Otkrovennaya_kniga_o_finansovoj_sisteme.jpeg",
       "verdict": "хорошая",
       "description": "",
