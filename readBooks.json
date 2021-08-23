@@ -9,7 +9,8 @@
       "verdict": "",
       "description": "",
       "litres": "https://www.litres.ru/andrey-kurpatov/schastliv-po-sobstvennomu-zhelaniu-12-shagov-k-du-29420917/",
-      "livelib": ""
+      "livelib": "",
+        "type": "аудиокнига"
     },
     {
       "id": 20210822,
@@ -20,7 +21,8 @@
       "verdict": "можно есть стоящие мысли",
       "description": "",
       "litres": "https://www.litres.ru/erik-bern/seks-v-chelovecheskoy-lubvi/chitat-onlayn/",
-      "livelib": ""
+      "livelib": "",
+       "type": "электронная книга"
     },
     {
       "id": 20210813,
@@ -31,7 +33,8 @@
       "verdict": "можно",
       "description": "",
       "litres": "",
-      "livelib": ""
+      "livelib": "",
+       "type": "электронная книга"
     },
 
 
