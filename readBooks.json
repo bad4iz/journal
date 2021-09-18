@@ -1,5 +1,17 @@
 {
   "books": [
+       {
+      "id": 20210918,
+      "name": "Исчезающие носки, новогодние обещания и еще 97 загадок бытия",
+      "author": "Дэн Ариели",
+      "date": "18.09.2021",
+      "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/16903414-den-arieli-ischezauschie-noski-novogodnie-obeschaniya-i-esche-97-zagadok-b.jpg",
+      "verdict": "как журнал",
+      "description": "Эта книга – сборник из серьезных и смешных вопросов читателей авторской колонки знаменитого писателя Дэна Ариели и его ответов на них. Автор, ведущий эксперт в области человеческой рациональности и иррациональности, дает неожиданные и парадоксальные ответы на житейские загадки с точки зрения поведенческой экономики. Многие вопросы дополнены и проиллюстрированы забавными комиксами Уильяма Хейфели, иллюстратора The New Yorker.",
+      "litres": "https://www.litres.ru/den-arieli/ischezauschie-noski-novogodnie-obeschaniya-i-esche-97-zagadok-b/",
+      "livelib": "https://www.livelib.ru/book/1001468928-ischezayuschie-noski-novogodnie-obeschaniya-i-esche-97-zagadok-bytiya-den-arieli",
+      "type": "бумажная книга"
+      },
      {
       "id": 20210910,
       "name": "Антихрупкость. Как извлечь выгоду из хаоса",
