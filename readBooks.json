@@ -1,5 +1,16 @@
 {
   "books": [
+        {
+      "id": 20210926,
+      "name": "Лидер и племя. Пять уровней корпоративной культуры",
+      "author": "Джон Кинг, Дэйв Логан, Хэли Фишер-Райт",
+      "date": "26.09.2021",
+      "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_415/22164525-dzhon-king-lider-i-plemya.jpg",
+      "verdict": "Прям очень отлично",
+      "description": "",
+      "litres": "https://www.litres.ru/dzhon-king/lider-i-plemya/",
+      "type": "аудиокнига"
+      },
        {
       "id": 20210918,
       "name": "Исчезающие носки, новогодние обещания и еще 97 загадок бытия",
