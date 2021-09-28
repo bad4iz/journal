@@ -1,5 +1,16 @@
 {
   "books": [
+      {
+      "id": 20210927,
+      "name": "Человеку свойственно продавать. Удивительная правда о том, как побуждать других к действию",
+      "author": "Дэниел Пинк",
+      "date": "27.09.2021",
+      "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/8883417-deniel-pink-cheloveku-svoystvenno-prodavat-udivitelnaya-pravda-o-tom-kak-p.jpg",
+      "verdict": "есть мысли",
+      "description": "",
+      "litres": "https://www.litres.ru/deniel-pink/cheloveku-svoystvenno-prodavat-udivitelnaya-pravda-o-tom-kak-p/",
+       "type": "электронная книга"
+      },
         {
       "id": 20210926,
       "name": "Лидер и племя. Пять уровней корпоративной культуры",
