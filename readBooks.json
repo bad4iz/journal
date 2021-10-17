@@ -1,5 +1,16 @@
 {
   "books": [
+     {
+      "id": 20211015,
+      "name": "Чертоги разума. Убей в себе идиота!",
+      "author": "Андрей Курпатов",
+      "date": "15.10.2021",
+      "img": "https://cv7.litres.ru/pub/c/audiokniga/cover_415/40146370-andrey-kurpatov-chertogi-razuma-ubey-v-sebe-idiota-40146370.jpg",
+      "verdict": "обязательно читать",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/chertogi-razuma-ubey-v-sebe-idiota-40146370/",
+       "type": "аудиокнига"
+      },
       {
       "id": 20210927,
       "name": "Человеку свойственно продавать. Удивительная правда о том, как побуждать других к действию",
