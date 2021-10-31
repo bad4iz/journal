@@ -1,5 +1,6 @@
 {
-  "books": [  {
+  "books": [
+    {
       "id": 20211031,
       "name": "TRANSHUMANISM INC. (Трансгуманизм Inc.)",
       "author": "Виктор Пелевин",
@@ -9,9 +10,9 @@
       "description": "В будущем богатые люди смогут отделить свой мозг от старящегося тела – и станут жить почти вечно в особом “баночном” измерении. Туда уйдут вожди, мировые олигархи и архитекторы миропорядка. Там будет возможно все.",
       "litres": "https://www.litres.ru/viktor-pelevin/transhumanism-inc-audio/",
       "livelib": "https://www.livelib.ru/book/4390105/editions/audio",
-       "type": "аудиокнига"
-      },
-      {
+      "type": "аудиокнига"
+    },
+    {
       "id": 20211030,
       "name": "Рискуя собственной шкурой. Скрытая асимметрия повседневной жизни",
       "author": "Нассим Николас Талеб",
@@ -21,9 +22,9 @@
       "description": "",
       "litres": "https://www.litres.ru/nassim-nikolas-taleb/riskuya-sobstvennoy-shkuroy-skrytaya-asimmetriya-povs/",
       "livelib": "https://www.livelib.ru/book/1002861016-riskuya-sobstvennoj-shkuroj-skrytaya-asimmetriya-povsednevnoj-zhizni-nassim-taleb",
-       "type": "бумажная книга"
-      },
-     {
+      "type": "бумажная книга"
+    },
+    {
       "id": 20211015,
       "name": "Чертоги разума. Убей в себе идиота!",
       "author": "Андрей Курпатов",
@@ -32,10 +33,10 @@
       "verdict": "обязательно читать",
       "description": "",
       "litres": "https://www.litres.ru/andrey-kurpatov/chertogi-razuma-ubey-v-sebe-idiota-40146370/",
-       "livelib" "https://www.livelib.ru/book/1002731393-chertogi-razuma-andrej-kurpatovo",
-       "type": "аудиокнига"
-      },
-      {
+      "livelib": "https://www.livelib.ru/book/1002731393-chertogi-razuma-andrej-kurpatovo",
+      "type": "аудиокнига"
+    },
+    {
       "id": 20210927,
       "name": "Человеку свойственно продавать. Удивительная правда о том, как побуждать других к действию",
       "author": "Дэниел Пинк",
@@ -44,9 +45,9 @@
       "verdict": "есть мысли",
       "description": "",
       "litres": "https://www.litres.ru/deniel-pink/cheloveku-svoystvenno-prodavat-udivitelnaya-pravda-o-tom-kak-p/",
-       "type": "электронная книга"
-      },
-        {
+      "type": "электронная книга"
+    },
+    {
       "id": 20210926,
       "name": "Лидер и племя. Пять уровней корпоративной культуры",
       "author": "Джон Кинг, Дэйв Логан, Хэли Фишер-Райт",
@@ -56,8 +57,8 @@
       "description": "",
       "litres": "https://www.litres.ru/dzhon-king/lider-i-plemya-pyat-urovney-korporativnoy-kultury-38608484/",
       "type": "аудиокнига"
-      },
-       {
+    },
+    {
       "id": 20210918,
       "name": "Исчезающие носки, новогодние обещания и еще 97 загадок бытия",
       "author": "Дэн Ариели",
@@ -68,8 +69,8 @@
       "litres": "https://www.litres.ru/den-arieli/ischezauschie-noski-novogodnie-obeschaniya-i-esche-97-zagadok-b/",
       "livelib": "https://www.livelib.ru/book/1001468928-ischezayuschie-noski-novogodnie-obeschaniya-i-esche-97-zagadok-bytiya-den-arieli",
       "type": "бумажная книга"
-      },
-     {
+    },
+    {
       "id": 20210910,
       "name": "Антихрупкость. Как извлечь выгоду из хаоса",
       "author": "Талеб Нассим Николас",
@@ -80,8 +81,8 @@
       "litres": "https://www.litres.ru/nassim-nikolas-taleb/antihrupkost-kak-izvlech-vygodu-iz-haosa/",
       "livelib": "https://www.livelib.ru/book/1001243472-antihrupkost-kak-izvlech-vygodu-iz-haosa-taleb-nassim-nikolas",
       "type": "бумажная книга"
-      },
-     {
+    },
+    {
       "id": 20210907,
       "name": "Пора зарабатывать больше! Как постоянно увеличивать доходы",
       "author": "Бодо Шефер",
@@ -92,8 +93,8 @@
       "litres": "https://www.litres.ru/bodo-shefer/pora-zarabatyvat-bolshe-kak-postoyanno-uvelichivat-dohody/",
       "livelib": "https://www.livelib.ru/book/1002884200-pora-zarabatyvat-bolshe-kak-postoyanno-uvelichivat-dohody-bodo-shefer",
       "type": "электронная книга"
-      },
-        {
+    },
+    {
       "id": 20210905,
       "name": "Идеальный программист. Как стать профессионалом разработки ПО",
       "author": "Роберт Мартин",
@@ -105,7 +106,7 @@
       "livelib": "https://www.livelib.ru/book/1002934839-idealnyj-programmist-kak-stat-professionalom-razrabotki-po-robert-martin",
       "type": "электронная книга"
     },
-     {
+    {
       "id": 20210823,
       "name": "Счастлив по собственному желанию. 12 шагов к душевному здоровью",
       "author": "Андрей Курпатов",
@@ -115,7 +116,7 @@
       "description": "",
       "litres": "https://www.litres.ru/andrey-kurpatov/schastliv-po-sobstvennomu-zhelaniu-12-shagov-k-du-29420917/",
       "livelib": "",
-        "type": "аудиокнига"
+      "type": "аудиокнига"
     },
     {
       "id": 20210822,
@@ -127,7 +128,7 @@
       "description": "",
       "litres": "https://www.litres.ru/erik-bern/seks-v-chelovecheskoy-lubvi/chitat-onlayn/",
       "livelib": "",
-       "type": "электронная книга"
+      "type": "электронная книга"
     },
     {
       "id": 20210813,
@@ -139,10 +140,8 @@
       "description": "",
       "litres": "",
       "livelib": "",
-       "type": "электронная книга"
+      "type": "электронная книга"
     },
-
-
     {
       "id": 20210804,
       "name": "Думай как математик. Как решать любые задачи быстрее и эффективнее",
@@ -155,8 +154,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20210720,
       "name": "Гении и аутсайдеры. Почему одним все, а другим ничего?",
@@ -169,8 +166,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20210718,
       "name": "Честно о нечестности",
@@ -183,8 +178,6 @@
       "livelib": "",
       "type": "бумажная книга"
     },
-
-
     {
       "id": 20210717,
       "name": "Законы победителей",
@@ -197,8 +190,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20210710,
       "name": "Одураченные случайностью",
@@ -211,8 +202,6 @@
       "livelib": "",
       "type": "Бумажная книга"
     },
-
-
     {
       "id": 20210709,
       "name": "Руководство астронавта по жизни на Земле. Чему научили меня 4000 часов на орбите",
@@ -225,7 +214,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210704,
       "name": "Воспоминания биржевого спекулянта",
@@ -238,7 +226,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20210629,
       "name": "3 главных открытия психологии. Как управлять собой и своей жизнью",
@@ -251,7 +238,6 @@
       "livelib": "https://www.livelib.ru/book/1000350583-3-glavnyh-otkrytiya-psihologii-kak-upravlyat-soboj-i-svoej-zhiznyu-kurpatov-av",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210624,
       "name": "5 великих тайн мужчины и женщины",
@@ -264,7 +250,6 @@
       "livelib": "https://www.livelib.ru/book/1000265344-5-velikih-tajn-muzhchiny-i-zhenschiny-andrej-kurpatov",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210618,
       "name": "Первое руководство для родителей. Счастье вашего ребенка",
@@ -277,7 +262,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210609,
       "name": "45 татуировок личности. Правила моей жизни",
@@ -290,7 +274,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210604,
       "name": "Простое лидерство",
@@ -303,7 +286,6 @@
       "livelib": "https://www.livelib.ru/book/1000433584-prostoe-liderstvo-bodo-shefer",
       "type": "электронная книга"
     },
-
     {
       "id": 20210602,
       "name": "Поток: Психология оптимального переживания",
@@ -316,7 +298,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210514,
       "name": "Алхимия финансов",
@@ -329,7 +310,6 @@
       "livelib": "https://www.livelib.ru/book/1000827688-alhimiya-finansov-dzhordzh-soros",
       "type": "электронная книга"
     },
-
     {
       "id": 20210511,
       "name": "Позитивная иррациональность. Как извлекать выгоду из своих нелогичных поступков",
@@ -342,7 +322,6 @@
       "livelib": "",
       "type": "бумажная книга"
     },
-
     {
       "id": 20210507,
       "name": "Лестница в небо. Диалоги о власти, карьере и мировой элите.",
@@ -355,7 +334,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20210506,
       "name": "Homo Сидящий. Как найти 3-ю точку опоры и избавиться от боли",
@@ -368,7 +346,7 @@
       "livelib": "",
       "type": "электронная книга"
     },
-         {
+    {
       "id": 20210503,
       "name": "Красная таблетка-2. Вся правда об успехе",
       "author": "Андрей Курпатов",
@@ -416,8 +394,7 @@
       "livelib": "",
       "type": "электронная книга"
     },
-    
-        {
+    {
       "id": 20210413,
       "name": "Красная таблетка. Посмотри правде в глаза",
       "author": "Андрей Курпатов",
@@ -727,7 +704,6 @@
       "description": "Книга самого знаменитого мастера современной японской литературы, собрание, по его словам, «зарисовок о беге, но никак не секретов здорового образа жизни». С той же фирменной легкостью и недосказанностью, виртуозно балансируя на грани бытового очерка и аллегории, Мураками фиксирует свои размышления о беге, приобретающем в силу ежедневного повторения «некую медитативную сущность». «Искренне писать о беге, – говорит он, – означает искренне писать о самом себе».",
       "type": "электронная книга"
     },
-
     {
       "id": 20201229,
       "name": "Charlotte's Web/Stuart Little Slipcase Gift Set",
@@ -740,7 +716,6 @@
       "livelib": "https://www.livelib.ru/book/1000144012-charlottes-webstuart-little-slipcase-gift-set-e-b-white",
       "type": "электронная книга"
     },
-
     {
       "id": 20201207,
       "name": "Средство от вегетососудистой дистонии",
@@ -753,8 +728,6 @@
       "livelib": "https://www.livelib.ru/book/1000200682-sredstvo-ot-vegetososudistoj-distonii-andrej-kurpatov",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201203,
       "name": "Почему отличники работают на троечников, а хорошисты на государство?",
@@ -767,7 +740,6 @@
       "livelib": "",
       "type": "бумажная книга"
     },
-
     {
       "id": 20201126,
       "name": "Думай медленно… Решай быстро",
@@ -780,7 +752,6 @@
       "livelib": "",
       "type": "бумажная книга"
     },
-
     {
       "id": 20201127,
       "name": "Фокус: Достижение приоритетных целей",
@@ -793,8 +764,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201123,
       "name": "Экономика всего. Как институты определяют нашу жизнь",
@@ -807,9 +776,6 @@
       "livelib": "https://www.livelib.ru/book/1002063849-ekonomika-vsego-kak-instituty-opredelyayut-nashu-zhizn-aleksandr-auzan",
       "type": "электронная книга"
     },
-
-
-
     {
       "id": 20201115,
       "name": "Идеальные родители за 60 минут. Экспресс-курс от мировых экспертов по воспитанию",
@@ -822,8 +788,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 202011151,
       "name": "Книга о власти над собой",
@@ -836,7 +800,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20201112,
       "name": "Как составить личный финансовый план и как его реализовать",
@@ -849,9 +812,6 @@
       "livelib": "https://www.livelib.ru/book/1000487348-kak-sostavit-lichnyj-finansovyj-plan-i-kak-ego-realizovat-vladimir-savenok",
       "type": "электронная книга"
     },
-
-
-
     {
       "id": 20201109,
       "name": "Мифы экономики. Заблуждения и стереотипы, которые распространяют СМИ и политики",
@@ -864,8 +824,6 @@
       "livelib": "https://www.livelib.ru/book/1000919680-mify-ekonomiki-zabluzhdeniya-i-stereotipy-kotorye-rasprostranyayut-smi-i-politiki-sergej-guriev",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201108,
       "name": "Кратчайшая история времени",
@@ -878,8 +836,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20201107,
       "name": "Голая статистика. Самая интересная книга о самой скучной науке",
@@ -892,7 +848,6 @@
       "livelib": "https://www.livelib.ru/book/1001518877-golaya-statistika-samaya-interesnaya-kniga-o-samoj-skuchnoj-nauke-charlz-uilan",
       "type": "электронная книга"
     },
-
     {
       "id": 20201101,
       "name": "Десять главных правил для начинающего инвестора",
@@ -905,7 +860,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20201029,
       "name": "Руководство разумного инвестора. Единственный надежный способ инвестировать на рынке ценных бумаг",
@@ -918,8 +872,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201028,
       "name": "Суперфрикономика",
@@ -932,7 +884,6 @@
       "livelib": "https://www.livelib.ru/book/1000448369-superfrikonomika-stiven-levitt-i-stiven-dabner",
       "type": "электронная книга"
     },
-
     {
       "id": 20201025,
       "name": "Краткая история денег: Откуда они взялись? Как работают? Как изменятся в будущем",
@@ -945,8 +896,6 @@
       "livelib": "https://www.livelib.ru/book/1001448449-kratkaya-istoriya-deneg-otkuda-oni-vzyalis-kak-rabotayut-kak-izmenyatsya-v-buduschem-andrej-ostalskij",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201023,
       "name": "Путь к финансовой свободе",
@@ -959,7 +908,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20201022,
       "name": "Самодисциплина. Развитие личности",
@@ -972,7 +920,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20201020,
       "name": "Подсознание может всё!",
@@ -985,8 +932,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20201014,
       "name": "Психология народов",
@@ -1011,7 +956,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20201012,
       "name": "Как устроена экономика",
@@ -1024,8 +968,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20201010,
       "name": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
@@ -1038,8 +980,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20201005,
       "name": "Фрикономика: Экономист-хулиган и журналист-сорвиголова исследуют скрытые причины всего на свете",
@@ -1052,8 +992,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20201003,
       "name": "Миллион для моей дочери. Пошаговый план накоплений",
@@ -1066,7 +1004,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20201002,
       "name": "Если сможете: Как миллениалы могут понемногу разбогатеть",
@@ -1079,8 +1016,6 @@
       "livelib": "https://www.livelib.ru/book/1003143895-esli-smozhete-kak-millenialy-mogut-ponemnogu-razbogatet-uilyam-bernstajn",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200923,
       "name": "Дети и деньги. Книга для родителей из страны, в которой научились эффективно управлять финансами",
@@ -1093,7 +1028,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20200916,
       "name": "Ты можешь все, что захочешь! Как использовать магию подсознания для трансформации жизни",
@@ -1106,8 +1040,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20200915,
       "name": "Наиболее распространенные заблуждения и безумства толпы",
@@ -1120,7 +1052,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
     {
       "id": 20200907,
       "name": "Философы от мира сего",
@@ -1133,8 +1064,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20200905,
       "name": "Мани, или Азбука денег",
@@ -1147,8 +1076,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20200903,
       "name": "Путь к финансовой свободе",
@@ -1161,8 +1088,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20200827,
       "name": "От биржевого игрока с Уолл-стрит до влиятельного политического деятеля. Биография крупного американского финансиста, серого кардинала Белого дома",
@@ -1175,8 +1100,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 202008201,
       "name": "Ваш сосед - миллионер",
@@ -1189,7 +1112,6 @@
       "livelib": "https://www.livelib.ru/book/1000807338-vash-sosed-millioner-tomas-dzh-stenli",
       "type": "электронная книга"
     },
-
     {
       "id": 20200820,
       "name": "Думай и богатей",
@@ -1202,8 +1124,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
-
     {
       "id": 20200818,
       "name": "Метод Питера Линча. Стратегия и тактика индивидуального инвестора",
@@ -1216,8 +1136,6 @@
       "livelib": "https://www.livelib.ru/book/1002994702-metod-pitera-lincha-strategiya-i-taktika-individualnogo-investora-piter-linch",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200813,
       "name": "Маленькая книга победителя рынка акций",
@@ -1230,8 +1148,6 @@
       "livelib": "https://www.livelib.ru/book/1000184607-malenkaya-kniga-pobeditelya-rynka-aktsij-dzhoel-grinblatt",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200501,
       "name": "Стыд. Зависть",
@@ -1244,8 +1160,6 @@
       "livelib": "https://www.livelib.ru/book/1000114751-styd-zavist-yu-m-orlov",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200415,
       "name": "Рынок облигаций. Курс для начинающих",
@@ -1258,8 +1172,6 @@
       "livelib": "",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200410,
       "name": "Общаться с ребенком. Как?",
@@ -1272,9 +1184,6 @@
       "livelib": "https://www.livelib.ru/book/1000278786-obschatsya-s-rebenkom-kak-yu-b-gippenrejter",
       "type": "аудиокнига"
     },
-
-
-
     {
       "id": 20200331,
       "name": "Финансовая грамота",
@@ -1287,8 +1196,6 @@
       "livelib": "https://www.livelib.ru/book/1000857381-finansovaya-gramota-aleksej-goryaev",
       "type": "электронная книга"
     },
-
-
     {
       "id": 20200308,
       "name": "Книга Бытия. Ветхий Завет",
@@ -1313,9 +1220,6 @@
       "livelib": "https://www.livelib.ru/book/1000201116-obida-vina-yu-m-orlov",
       "type": "электронная книга"
     },
-
-
-
     {
       "id": 20191209,
       "name": "Шесть шляп мышления",
@@ -1328,7 +1232,6 @@
       "livelib": "",
       "type": "аудиокнига"
     },
-
     {
       "id": 20191202,
       "name": "Восхождение к индивидуальности",
