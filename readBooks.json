@@ -1,5 +1,28 @@
 {
-  "books": [
+  "books": [  {
+      "id": 20211031,
+      "name": "TRANSHUMANISM INC. (Трансгуманизм Inc.)",
+      "author": "Виктор Пелевин",
+      "date": "31.10.2021",
+      "img": "https://cv6.litres.ru/pub/c/audiokniga/cover_330/66026061-viktor-pelevin-transhumanism-inc-audio.jpg",
+      "verdict": "прикольная есть отсылки в настоящее. Читать можно",
+      "description": "В будущем богатые люди смогут отделить свой мозг от старящегося тела – и станут жить почти вечно в особом “баночном” измерении. Туда уйдут вожди, мировые олигархи и архитекторы миропорядка. Там будет возможно все.",
+      "litres": "https://www.litres.ru/viktor-pelevin/transhumanism-inc-audio/",
+      "livelib" "https://www.livelib.ru/book/4390105/editions/audio",
+       "type": "аудиокнига"
+      },
+      {
+      "id": 20211030,
+      "name": "Рискуя собственной шкурой. Скрытая асимметрия повседневной жизни",
+      "author": "Нассим Николас Талеб",
+      "date": "30.10.2021",
+      "img": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/36980697-nassim-nikolas-taleb-riskuya-sobstvennoy-shkuroy-skrytaya-asimmetriya-povs.jpg",
+      "verdict": "обязательно как и всего Талеба",
+      "description": "",
+      "litres": "https://www.litres.ru/nassim-nikolas-taleb/riskuya-sobstvennoy-shkuroy-skrytaya-asimmetriya-povs/",
+      "livelib" "https://www.livelib.ru/book/1002861016-riskuya-sobstvennoj-shkuroj-skrytaya-asimmetriya-povsednevnoj-zhizni-nassim-taleb",
+       "type": "бумажная книга"
+      },
      {
       "id": 20211015,
       "name": "Чертоги разума. Убей в себе идиота!",
@@ -9,6 +32,7 @@
       "verdict": "обязательно читать",
       "description": "",
       "litres": "https://www.litres.ru/andrey-kurpatov/chertogi-razuma-ubey-v-sebe-idiota-40146370/",
+       "livelib" "https://www.livelib.ru/book/1002731393-chertogi-razuma-andrej-kurpatovo",
        "type": "аудиокнига"
       },
       {
