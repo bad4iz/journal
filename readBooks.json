@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 20211101,
+      "name": "Не работайте с м*даками",
+      "author": "Роберт Саттон",
+      "date": "01.11.2021",
+      "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/10359151-robert-satton-ne-rabotayte-s-m-dakami.jpg",
+      "verdict": "стоит прочитать только ради окончания . где рассказывается какой Му*ак Стив Джобс",
+      "description": "",
+      "litres": "https://www.litres.ru/robert-satton/ne-rabotayte-s-m-dakami/",
+      "type": "электронная книга"
+    },
+    {
       "id": 20211031,
       "name": "TRANSHUMANISM INC. (Трансгуманизм Inc.)",
       "author": "Виктор Пелевин",
