@@ -1,5 +1,28 @@
 {
   "books": [
+       {
+      "id": 20211130,
+      "name": "Занимательная статистика. Манга",
+      "author": "Син Такахаси",
+      "date": "30.11.2021",
+      "img": "https://s1.livelib.ru/boocover/1001182076/o/8837/Sin_Takahasi__Zanimatelnaya_statistika._Manga.jpeg",
+      "verdict": "прям на ура зашло.. ",
+      "description": "",
+      "livelib": "https://www.livelib.ru/book/1001182076-zanimatelnaya-statistika-manga-sin-takahasi",
+      "type": "электронная книга"
+    },
+    {
+      "id": 20211129,
+      "name": "Алгебра. Естественная наука в комиксах",
+      "author": "Ларри Гоник",
+      "date": "29.11.2021",
+      "img": "https://cv1.litres.ru/pub/c/pdf-kniga/cover_415/17096918-larri-gonik-algebra-estestvennaya-nauka-v-komiksah-17096918.jpg",
+      "verdict": "прям на ура зашло.. ",
+      "description": "",
+      "litres": "https://www.litres.ru/larri-gonik/algebra-estestvennaya-nauka-v-komiksah-17096918/",
+      "livelib": "https://www.livelib.ru/book/1001243473-algebra-estestvennaya-nauka-v-komiksah-gonik-larri",
+      "type": "бумажная книга"
+    },
     {
       "id": 20211121,
       "name": "Как управлять рабами",
