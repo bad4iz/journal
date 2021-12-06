@@ -1,6 +1,18 @@
 {
   "books": [
        {
+      "id": 202112024,
+      "name": "Экономикс. Как работает экономика (и почему не работает) в словах и картинках",
+      "author": "Майкл Гудвин, Дэн Бурр",
+      "date": "04.12.2021",
+      "img": "https://cv2.litres.ru/pub/c/pdf-kniga/cover_415/22059926-den-burr-ekonomiks-kak-rabotaet-ekonomika-i-pochemu-ne-rabotaet-v-22059926.jpg",
+      "verdict": "Очень хорошая даже отличная эконом история. Но надо понимать что это все-го лиш одна из.",
+      "description": "",
+      "itres": "https://www.litres.ru/den-burr/ekonomiks-kak-rabotaet-ekonomika-i-pochemu-ne-rabotaet-v-22059926",
+      "livelib": "https://www.livelib.ru/book/1002020729-ekonomiks-kak-rabotaet-ekonomika-i-pochemu-ne-rabotaet-v-slovah-i-kartinkah-devid-bah",
+      "type": "бумажная книга"
+    },
+       {
       "id": 20211130,
       "name": "Занимательная статистика. Манга",
       "author": "Син Такахаси",
