@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 20211211,
+      "name": "Матанализ в комиксах: Тернистые тропы математики от секретов Архимеда до интеграла",
+      "author": "Грейди Клейн, Йорам Бауман",
+      "date": "11.12.2021",
+      "img": "https://s1.livelib.ru/boocover/1006201294/o/8c33/__Matanaliz_v_komiksah_Ternistye_tropy_matematiki_ot_sekretov_Arhimeda_do_integr.jpeg",
+      "verdict": "Очень хорошая",
+      "description": "",
+      "livelib": "https://www.livelib.ru/book/1006201294-matanaliz-v-komiksah-ternistye-tropy-matematiki-ot-sekretov-arhimeda-do-integrala-grejdi-klejn",
+      "type": "бумажная книга"
+    },
+    {
       "id": 20211208,
       "name": "Троица. Будь больше самого себя",
       "author": "Андрей Курпатов",
