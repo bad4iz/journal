@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 20211212,
+      "name": "Матан. Краткий курс в комиксах",
+      "author": "Ларри Гоник",
+      "date": "12.12.2021",
+      "img": "https://s1.livelib.ru/boocover/1002275758/o/47e1/Larri_Gonik__Matan._Kratkij_kurs_v_komiksah.jpeg",
+      "verdict": "Не для начинающих. Скорей всего что бы просто вспомнить",
+      "description": "",
+      "livelib": "https://www.livelib.ru/book/1002275758-matan-kratkij-kurs-v-komiksah-larri-gonik",
+      "type": "бумажная книга"
+    },
+    {
       "id": 20211211,
       "name": "Матанализ в комиксах: Тернистые тропы математики от секретов Архимеда до интеграла",
       "author": "Грейди Клейн, Йорам Бауман",
