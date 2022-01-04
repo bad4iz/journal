@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "id": 20211220,
-      "name": "Математика для взрослых. Лайфхаки для повседневных вычислений",
-      "author": "Кьяртан Поскитт",
-      "date": "20.12.2021",
-      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/20586768-kyartan-poskitt-matematika-dlya-vzroslyh-layfhaki-dlya-povsednevnyh-vychis.jpg",
-      "verdict": "Хорошая. Но есть проблемы с опечатками, вернее перевод в epub",
+      "id": 20220104,
+      "name": "Дюна",
+      "author": "Фрэнк Герберт",
+      "date": "04.01.2022",
+      "img": "https://cv7.litres.ru/pub/c/audiokniga/cover_415/66579770-frenk-gerbert-duna-66579770.jpg",
+      "verdict": "Хорошая.",
       "description": "",
-      "litres": "https://www.litres.ru/kyartan-poskitt/matematika-dlya-vzroslyh-layfhaki-dlya-povsednevnyh-vychis/",
-      "livelib": "https://www.livelib.ru/book/1001615206-matematika-dlya-vzroslyh-lajfhaki-dlya-povsednevnyh-vychislenij-kyartan-poskitt",
-      "type": "электронная книга"
+      "litres": "https://www.litres.ru/frenk-gerbert/duna-66579770/",
+      "livelib": "https://www.livelib.ru/book/1006779097-dyuna-frenk-gerbert",
+      "type": "аудиокнига"
     },
     {
       "id": 20211212,
