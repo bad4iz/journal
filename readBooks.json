@@ -13,6 +13,18 @@
       "type": "аудиокнига"
     },
     {
+      "id": 20211220,
+      "name": "Математика для взрослых. Лайфхаки для повседневных вычислений",
+      "author": "Кьяртан Поскитт",
+      "date": "20.12.2021",
+      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/20586768-kyartan-poskitt-matematika-dlya-vzroslyh-layfhaki-dlya-povsednevnyh-vychis.jpg",
+      "verdict": "Хорошая. Но есть проблемы с опечатками, вернее перевод в epub",
+      "description": "",
+      "litres": "https://www.litres.ru/kyartan-poskitt/matematika-dlya-vzroslyh-layfhaki-dlya-povsednevnyh-vychis/",
+      "livelib": "https://www.livelib.ru/book/1001615206-matematika-dlya-vzroslyh-lajfhaki-dlya-povsednevnyh-vychislenij-kyartan-poskitt",
+      "type": "электронная книга"
+    },
+    {
       "id": 20211212,
       "name": "Матан. Краткий курс в комиксах",
       "author": "Ларри Гоник",
