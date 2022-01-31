@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 20220129,
+      "name": "Математика с дурацкими рисунками. Идеи, которые формируют нашу реальность",
+      "author": "Бен Орлин",
+      "date": "29.01.2022",
+      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/62696761-ben-orlin-matematika-s-durackimi-risunkami-idei-kotorye-formiruut-nashu-re.jpg",
+      "verdict": "Хорошо зашла",
+      "description": "",
+      "litres": "https://www.litres.ru/ben-orlin/matematika-s-durackimi-risunkami-idei-kotorye-formiruut-nashu-re/",
+      "livelib": "https://www.livelib.ru/book/1005420394-matematika-s-duratskimi-risunkami-idei-kotorye-formiruyut-nashu-realnost-ben-orlin",
+      "type": "бумажная книга"
+    },
+    {
       "id": 20220112,
       "name": "Мессия Дюны",
       "author": "Фрэнк Герберт",
