@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 20220207,
+      "name": "Политика у шимпанзе. Власть и секс у приматов",
+      "author": "Франс де Вааль",
+      "date": "07.02.2022",
+      "img": "https://cv0.litres.ru/pub/c/audiokniga/cover_330/63241901-frans-de-vaal-politika-u-shimpanze-vlast-i-seks-u-primatov-63241901.jpg",
+      "verdict": "Заставляет задуматься о нашем так называемом разуме",
+      "description": "",
+      "litres": "https://www.litres.ru/frans-de-vaal/politika-u-shimpanze-vlast-i-seks-u-primatov-63241901/",
+      "livelib": "https://www.livelib.ru/review/2553406-politika-u-shimpanze-vlast-i-seks-u-primatov-frans-de-val",
+      "type": "аудиокнига"
+    },
+    {
       "id": 20220129,
       "name": "Математика с дурацкими рисунками. Идеи, которые формируют нашу реальность",
       "author": "Бен Орлин",
