@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 20220218,
+      "name": "Манифест инвестора: Готовимся к потрясениям, процветанию и всему остальному",
+      "author": "Уильям Бернстайн",
+      "date": "18.02.2022",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_415/54861713-uilyam-bernstayn-manifest-investora-gotovimsya-k-potryaseniyam-pr-54861713.jpg",
+      "verdict": "Перечитка. Думается Книга должна быть на полке в бумажном варианте. Тоесть это фундаментальная книга. Перечитка ежегодна прям думается обязательна.",
+      "description": "",
+      "litres": "https://www.litres.ru/uilyam-bernstayn/manifest-investora-gotovimsya-k-potryaseniyam-pr-54861713/",
+      "livelib": "https://www.livelib.ru/book/1007080291-manifest-investora-gotovimsya-k-potryaseniyam-protsvetaniyu-i-vsemu-ostalnomu-uilyam-bernstajn",
+      "type": "аудиокнига"
+    },
+  {
       "id": 20220207,
       "name": "Политика у шимпанзе. Власть и секс у приматов",
       "author": "Франс де Вааль",
