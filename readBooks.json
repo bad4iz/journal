@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202200304,
+      "name": "Дети Дюны",
+      "author": "Фрэнк Герберт",
+      "date": "04.03.2022",
+      "img": "https://cv0.litres.ru/pub/c/audiokniga/cover_415/66853808-frenk-gerbert-deti-duny-66853808.jpg",
+      "verdict": "",
+      "description": "",
+      "litres": "https://www.litres.ru/frenk-gerbert/deti-duny-66853808/",
+      "livelib": "https://www.livelib.ru/book/1006905994-deti-dyuny-frenk-gerbert",
+      "type": "аудиокнига"
+    },
+    {
       "id": 20220218,
       "name": "Манифест инвестора: Готовимся к потрясениям, процветанию и всему остальному",
       "author": "Уильям Бернстайн",
