@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202200308,
+      "name": "Без новостей. Как избавиться от информационного шума и мыслить ясно",
+      "author": "Рольф Добелли",
+      "date": "08.03.2022",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_415/57355815-rolf-dobelli-bez-novostey-kak-izbavitsya-ot-informacionnogo-shuma-57355815.jpg",
+      "verdict": "Очень нужная тема. Очень хорошие вопросы.",
+      "description": "",
+      "litres": "https://www.litres.ru/rolf-dobelli/bez-novostey-kak-izbavitsya-ot-informacionnogo-shuma-57355815/",
+      "livelib": "https://www.livelib.ru/book/1005003871-bez-novostej-kak-izbavitsya-ot-informatsionnogo-shuma-i-myslit-yasno-rolf-dobelli",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202200304,
       "name": "Дети Дюны",
       "author": "Фрэнк Герберт",
