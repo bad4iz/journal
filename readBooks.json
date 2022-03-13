@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202200313,
+      "name": "Чертоги разума. Убей в себе идиота!",
+      "author": "Андрей Курпатов",
+      "date": "13.03.2022",
+      "img": "https://cv4.litres.ru/pub/c/elektronnaya-kniga/cover_415/32483943-andrey-kurpatov-chertogi-razuma-ubey-v-sebe-idiota.jpg",
+      "verdict": "То что это бумажная книга и то что это перечитка Уже говорит о многом. В обязательном порядке!!!, как и всю серию Академия смысла.",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/chertogi-razuma-ubey-v-sebe-idiota/",
+      "livelib": "https://www.livelib.ru/book/1002731393-chertogi-razuma-andrej-kurpatov",
+      "type": "бумажная книга"
+    },
+    {
       "id": 202200312,
       "name": "Усреднение ценности. Простая и надежная стратегия повышения доходности инвестиций на фондовом рынке",
       "author": "Майкл Эдлесон",
@@ -11,7 +23,8 @@
       "litres": "https://www.litres.ru/michael-e-edleson-26/usrednenie-cennosti-prostaya-i-nadezhnaya-strategiya/",
       "livelib": "https://www.livelib.ru/book/1007047288-usrednenie-tsennosti-prostaya-i-nadezhnaya-strategiya-povysheniya-dohodnosti-investitsij-na-fondovom-rynke-majkl-edleson",
       "type": "электронная книга"
-    },   {
+    },
+    {
       "id": 202200308,
       "name": "Без новостей. Как избавиться от информационного шума и мыслить ясно",
       "author": "Рольф Добелли",
@@ -47,7 +60,7 @@
       "livelib": "https://www.livelib.ru/book/1007080291-manifest-investora-gotovimsya-k-potryaseniyam-protsvetaniyu-i-vsemu-ostalnomu-uilyam-bernstajn",
       "type": "аудиокнига"
     },
-  {
+    {
       "id": 20220207,
       "name": "Политика у шимпанзе. Власть и секс у приматов",
       "author": "Франс де Вааль",
