@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 202200312,
+      "name": "Усреднение ценности. Простая и надежная стратегия повышения доходности инвестиций на фондовом рынке",
+      "author": "Майкл Эдлесон",
+      "date": "12.03.2022",
+      "img": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/67139795-michael-e-edleson-26-usrednenie-cennosti-prostaya-i-nadezhnaya-strategiya.jpg",
+      "verdict": "Всем кто интересуется темой накопления обязаельно. Первая часть прям строго. Вторая формулы и применения",
+      "description": "",
+      "litres": "https://www.litres.ru/michael-e-edleson-26/usrednenie-cennosti-prostaya-i-nadezhnaya-strategiya/",
+      "livelib": "https://www.livelib.ru/book/1007047288-usrednenie-tsennosti-prostaya-i-nadezhnaya-strategiya-povysheniya-dohodnosti-investitsij-na-fondovom-rynke-majkl-edleson",
+      "type": "электронная книга"
+    },   {
       "id": 202200308,
       "name": "Без новостей. Как избавиться от информационного шума и мыслить ясно",
       "author": "Рольф Добелли",
