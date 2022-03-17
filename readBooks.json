@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202200317,
+      "name": "Цифровой минимализм. Фокус и осознанность в шумном мире",
+      "author": "Кэл Ньюпорт",
+      "date": "17.03.2022",
+      "img": "https://cv4.litres.ru/pub/c/audiokniga/cover_330/44788547-kel-nuport-cifrovoy-minimalizm-44788547.jpg",
+      "verdict": "Еще одна книга в копилку цифрового ограничение. Обязательно надо",
+      "description": "",
+      "litres": "https://www.litres.ru/kel-nuport/cifrovoy-minimalizm-44788547/",
+      "livelib": "https://www.livelib.ru/book/1003234053-tsifrovoj-minimalizm-fokus-i-osoznannost-v-shumnom-mire-kel-nyuport",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202200313,
       "name": "Чертоги разума. Убей в себе идиота!",
       "author": "Андрей Курпатов",
