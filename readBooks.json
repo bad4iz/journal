@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 2022003280,
+      "name": "Происхождение семьи, частной собственности и государства",
+      "author": "Фридрих Энгельс",
+      "date": "28.03.2022",
+      "img": "https://cv7.litres.ru/pub/c/audiokniga/cover_330/64939672-fridrih-engels-proishozhdenie-semi-chastnoy-sobstvennosti-i-gosud-64939672.jpg",
+      "verdict": "Для кругозора.",
+      "description": "",
+      "litres": "https://www.litres.ru/fridrih-engels/proishozhdenie-semi-chastnoy-sobstvennosti-i-gosud-64939672/",
+      "type": "аудиокнига"
+    },
+    {
       "id": 2022003250,
       "name": "Хулиномика. Home edition: толще, длиннее, эффективнее",
       "author": "Алексей Марков",
