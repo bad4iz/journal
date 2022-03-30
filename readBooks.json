@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 2022003300,
+      "name": "Скотный Двор",
+      "author": "Джордж Оруэлл",
+      "date": "30.03.2022",
+      "img": "https://cv8.litres.ru/pub/c/audiokniga/cover_415/63605087-dzhordzh-oruell-skotnyy-dvor-63605087.jpg",
+      "verdict": "Прикольная. Все революции в одном флаконе",
+      "description": "",
+      "litres": "https://www.litres.ru/dzhordzh-oruell/skotnyy-dvor-63605087/",
+      "livelib": "https://www.livelib.ru/book/1006609564-skotnyj-dvor-dzhordzh-oruell",
+      "type": "аудиокнига"
+    },
+    {
       "id": 2022003280,
       "name": "Происхождение семьи, частной собственности и государства",
       "author": "Фридрих Энгельс",
