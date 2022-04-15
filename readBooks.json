@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202204150,
+      "name": "Бог-Император Дюны",
+      "author": "Фрэнк Герберт",
+      "date": "15.04.2022",
+      "img": "https://cv2.litres.ru/pub/c/audiokniga/cover_330/67132624-frenk-gerbert-bog-imperator-duny-67132624.jpg",
+      "verdict": "",
+      "description": "",
+      "litres": "https://www.litres.ru/frenk-gerbert/bog-imperator-duny-67132624/",
+      "livelib": "",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202204130,
       "name": "Время – деньги!",
       "author": "Бенджамин Франклин",
