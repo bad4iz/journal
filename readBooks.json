@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202204190,
+      "name": "Путь минималиста. Как выбрать главное и избавиться от лишнего во всех сферах жизни",
+      "author": "Эрика Лейн",
+      "date": "19.04.2022",
+      "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_330/63090836-erika-leyn-put-minimalista-kak-vybrat-glavnoe-i-izbavitsya-ot-lis-63090836.jpg",
+      "verdict": "Ну для поддержки темы можно",
+      "description": "",
+      "litres": "https://www.litres.ru/erika-leyn/put-minimalista-kak-vybrat-glavnoe-i-izbavitsya-ot-lis-63090836/",
+      "livelib": "",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202204150,
       "name": "Бог-Император Дюны",
       "author": "Фрэнк Герберт",
