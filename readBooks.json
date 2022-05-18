@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202205150,
+      "name": "Троица. Будь больше самого себя",
+      "author": "Андрей Курпатов",
+      "date": "15.05.2022",
+      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/37673564-andrey-kurpatov-troica-bud-bolshe-samogo-sebya.jpg",
+      "verdict": "Перечитка в бумажной версии. Офигенная. как и вся серия.",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/troica-bud-bolshe-samogo-sebya/",
+      "livelib": "https://www.livelib.ru/book/1002800423-troitsa-bud-bolshe-samogo-sebya-andrej-kurpatov",
+      "type": "бумажная книга"
+    },
+    {
       "id": 202204210,
       "name": "Success (успех) в большом городе",
       "author": "Ирина Хакамада",
