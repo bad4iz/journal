@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202206120,
+      "name": "Рыночные циклы",
+      "author": "Говард Маркс",
+      "date": "12.06.2022",
+      "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_330/51242134-govard-marks-rynochnye-cikly-51242134.jpg",
+      "verdict": "хорошая для поддержки темы инвестирования",
+      "description": "",
+      "litres": "https://www.litres.ru/govard-marks/rynochnye-cikly-51242134/",
+      "livelib": "https://www.livelib.ru/book/1003625802-rynochnye-tsikly-kak-vyyavlyat-i-ispolzovat-zakonomernosti-dlya-uspeshnogo-investirovaniya-govard-marks",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202205150,
       "name": "Троица. Будь больше самого себя",
       "author": "Андрей Курпатов",
