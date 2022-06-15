@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202206150,
+      "name": "На пенсию в 35 лет",
+      "author": "Бабайкин",
+      "date": "15.06.2022",
+      "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_330/56112234-babaykin-na-pensiu-v-35-let-56112234.jpg",
+      "verdict": "хорошая для поддержки темы инвестирования",
+      "description": "60% материала очень спорная но та польза от оставшихся в разы превышает. А те спорные моменты вы с лихвой компенсируете копнув глубже. В общем для входа самое то",
+      "litres": "https://www.litres.ru/babaykin/na-pensiu-v-35-let-56112234/",
+      "livelib": "https://www.livelib.ru/book/1004669914-na-pensiyu-v-35-let-babajkin",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202206120,
       "name": "Рыночные циклы",
       "author": "Говард Маркс",
