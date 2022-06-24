@@ -2,6 +2,18 @@
   "books": [
     {
       "id": 202206240,
+      "name": "Финансист",
+      "author": "Теодор Драйзер",
+      "date": "24.06.2022",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_330/9360112-teodor-drayzer-finansist-9360112.jpg",
+      "verdict": "первая часть из трех книг. Отличная американская классика. Показаны все ЛУЧШИЕ качества их общества которые мы думаем только есть в России.",
+      "description": "",
+      "litres": "https://www.litres.ru/teodor-drayzer/finansist-9360112/",
+      "livelib": "https://www.livelib.ru/book/1001277328-finansist-audiokniga-mp3-na-2-cd-teodor-drajzer",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 202206240,
       "name": "Славянские мифы. От Велеса и Мокоши до птицы Сирин и Ивана Купалы",
       "author": "Александра Баркова",
       "date": "24.06.2022",
