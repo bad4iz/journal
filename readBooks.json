@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "id": 202206240,
+      "name": "Славянские мифы. От Велеса и Мокоши до птицы Сирин и Ивана Купалы",
+      "author": "Александра Баркова",
+      "date": "24.06.2022",
+      "img": "https://cv6.litres.ru/pub/c/audiokniga/cover_330/66994864-aleksandra-leonidovn-slavyanskie-mify-ot-velesa-i-mokoshi-do-ptic-66994864.jpg",
+      "verdict": "Интересная в плане кругозора. Все таки видно что нас отвернули от изучения собственной истории. Есть прям увлекательные моменты, про красную шапку про колобка и прочее",
+      "description": "",
+      "litres": "https://www.litres.ru/aleksandra-leonidovn/slavyanskie-mify-ot-velesa-i-mokoshi-do-ptic-66994864/",
+      "livelib": "https://www.livelib.ru/book/1007327737-slavyanskie-mify-ot-velesa-i-mokoshi-do-ptitsy-sirin-i-ivana-kupaly-aleksandra-barkova",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 202206230,
+      "name": "Кризис мирового капитализма",
+      "author": "Джордж Сорос",
+      "date": "23.06.2022",
+      "img": "https://s1.livelib.ru/boocover/1000610249/o/9c92/Dzhordzh_Soros__Krizis_mirovogo_kapitalizma.jpeg",
+      "verdict": "Интересная такая книга. Где автор описывает как он влиял на мировые кризисы. Какую роль имел в развале СССР и после в России",
+      "description": "",
+      "litres": "",
+      "livelib": "https://www.livelib.ru/book/1000610249-krizis-mirovogo-kapitalizma-dzhordzh-soros",
+      "type": "электронная книга"
+    },
+    {
       "id": 202206150,
       "name": "На пенсию в 35 лет",
       "author": "Бабайкин",
