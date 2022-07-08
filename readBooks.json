@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202207081,
+      "name": "Слон на танцполе. Как Герман Греф и его команда учат Сбербанк танцевать",
+      "author": "Евгений Карасюк",
+      "date": "08.07.2022",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_330/5314612-evgeniy-karasuk-slon-na-tancpole-kak-german-gref-i-ego-komanda-uchat-sberbank-tancevat-5314612.webp",
+      "verdict": "Интересная книга, по другому начал смотреть и на Германа и на сбербанк",
+      "description": "",
+      "litres": "https://www.litres.ru/evgeniy-karasuk/slon-na-tancpole-kak-german-gref-i-ego-komanda-uchat-sberbank-tancevat-5314612/",
+      "livelib": "https://www.livelib.ru/book/1000676591-slon-na-tantspole-audiokniga-mp3-evgenij-karasyuk",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202206241,
       "name": "Финансист",
       "author": "Теодор Драйзер",
