@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 202207151,
+      "name": "Красная таблетка-2. Вся правда об успехе",
+      "author": "Андрей Курпатов",
+      "date": "15.07.2022",
+      "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/48809556-andrey-kurpatov-krasnaya-tabletka-2-vsya-pravda-ob-uspehe.webp",
+      "verdict": "Очередная перепрочитка в бумаге. Нужно прям читать, даже сильно",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/krasnaya-tabletka-2-vsya-pravda-ob-uspehe/",
+      "livelib": "https://www.livelib.ru/book/1003605428-krasnaya-tabletka2-vsya-pravda-ob-uspehe-andrej-kurpatov",
+      "type": "Бумажна"
+    },    {
       "id": 202207081,
       "name": "Слон на танцполе. Как Герман Греф и его команда учат Сбербанк танцевать",
       "author": "Евгений Карасюк",
