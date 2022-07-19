@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202207191,
+      "name": "Гроздья гнева",
+      "author": "Джон Стейнбек",
+      "date": "19.07.2022",
+      "img": "https://cv6.litres.ru/pub/c/audiokniga/cover_330/57488761-dzhon-steynbek-grozdya-gneva-57488761.webp",
+      "verdict": "Культовый роман вышедший в 1939 году. Жесткий прям. Показана вся ПРЕЛЕСТЬ рыночной экономики, где люди целыми семьями гибнут от голода. Вот от куда у нас коррупция и беспредел в органах",
+      "description": "",
+      "litres": "https://www.litres.ru/dzhon-steynbek/grozdya-gneva-57488761/",
+      "livelib": "https://www.livelib.ru/book/1720918/editions/audio",
+      "type": "Бумажна"
+    },
+    {
       "id": 202207151,
       "name": "Красная таблетка-2. Вся правда об успехе",
       "author": "Андрей Курпатов",
@@ -11,7 +23,8 @@
       "litres": "https://www.litres.ru/andrey-kurpatov/krasnaya-tabletka-2-vsya-pravda-ob-uspehe/",
       "livelib": "https://www.livelib.ru/book/1003605428-krasnaya-tabletka2-vsya-pravda-ob-uspehe-andrej-kurpatov",
       "type": "Бумажна"
-    },    {
+    },
+    {
       "id": 202207081,
       "name": "Слон на танцполе. Как Герман Греф и его команда учат Сбербанк танцевать",
       "author": "Евгений Карасюк",
