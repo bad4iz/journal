@@ -1,5 +1,30 @@
 {
   "books": [
+
+    {
+      "id": 202208021,
+      "name": "Граф Монте-Кристо (спектакль)",
+      "author": "Александр Дюмак",
+      "date": "19.07.2022",
+      "img": "https://cv4.litres.ru/pub/c/audiokniga/cover_330/67095141-aleksandr-duma-graf-monte-kristo-spektakl-67095141.webp",
+      "verdict": "",
+      "description": "",
+      "litres": "https://www.litres.ru/aleksandr-duma/graf-monte-kristo-spektakl-67095141/",
+      "livelib": "",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 202208011,
+      "name": "Нет значит нет. Как перестать быть удобным и научиться говорить «нет» без угрызений совести",
+      "author": "Деймон Захариадис",
+      "date": "01.08.2022",
+      "img": "https://cv1.litres.ru/pub/c/audiokniga/cover_330/65106017-deymon-zahariadis-net-znachit-net-kak-perestat-byt-udobnym-i-nauc-65106017.webp",
+      "verdict": "Хорошая такая книга. Мысли есть.",
+      "description": "",
+      "litres": "https://www.litres.ru/deymon-zahariadis/net-znachit-net-kak-perestat-byt-udobnym-i-nauc-65106017/",
+      "livelib": "https://www.livelib.ru/book/1006099846-net-znachit-net-kak-perestat-byt-udobnym-i-nauchitsya-govorit-net-bez-ugryzenij-sovesti-dejmon-zahariadis",
+      "type": "аудиокнига"
+    },
     {
       "id": 202207191,
       "name": "Гроздья гнева",
