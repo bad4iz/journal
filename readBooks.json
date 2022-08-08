@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202208061,
+      "name": "Числа",
+      "author": "Виктор Пелевин",
+      "date": "06.08.2022",
+      "img": "https://cv7.litres.ru/pub/c/audiokniga/cover_330/57512179-viktor-pelevin-chisla-57512179.webp",
+      "verdict": "просто промолчу",
+      "description": "",
+      "litres": "https://www.litres.ru/viktor-pelevin/chisla-57512179/",
+      "livelib": "https://www.livelib.ru/book/1006089646-chisla-viktor-pelevin",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202208021,
       "name": "Граф Монте-Кристо (спектакль)",
       "author": "Александр Дюма",
