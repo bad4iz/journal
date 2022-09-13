@@ -2,6 +2,30 @@
   "books": [
 
     {
+      "id": 202209111,
+      "name": "Изумруд раджи (сборник)",
+      "author": "Агата Кристи",
+      "date": "11.09.2022",
+      "img": "https://www.litres.ru/pub/c/audiokniga/cover_330/57297691-agata-kristi-izumrud-radzhi-57297691.webp",
+      "verdict": "Можно скоротать время.",
+      "description": "",
+      "litres": "https://www.litres.ru/agata-kristi/izumrud-radzhi-57297691/",
+      "livelib": "https://www.livelib.ru/book/1005504922-izumrud-radzhi-agata-kristi",
+      "type": "аудиокнига"
+    },
+    {
+      "id": 202209091,
+      "name": "Одноэтажная Америка. Рассказы",
+      "author": "Илья Ильф, Евгений Петров",
+      "date": "09.09.2022",
+      "img": "https://cv2.litres.ru/pub/c/audiokniga/cover_330/64728222-ilya-ilf-odnoetazhnaya-amerika-rasskazy-64728222.webp",
+      "verdict": "Почему я ее раньше не читал? Очень хорошая наводит на многие вопросы на некоторые отвечает.",
+      "description": "",
+      "litres": "https://www.litres.ru/ilya-ilf/odnoetazhnaya-amerika-rasskazy-64728222/",
+      "livelib": "https://www.livelib.ru/book/1000428583-odnoetazhnaya-amerika-rasskazy-sbornik-ilya-ilf-evgenij-petrov",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202208061,
       "name": "Числа",
       "author": "Виктор Пелевин",
