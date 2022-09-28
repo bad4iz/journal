@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202209221,
+      "name": "Имя розы",
+      "author": "Умберто Эко",
+      "date": "22.09.2022",
+      "img": "https://cv3.litres.ru/pub/c/audiokniga/cover_415/3119635-umberto-eko-imya-rozy-3119635.webp",
+      "verdict": "Очень стоит. окунуться в монашеское средневековье",
+      "description": "",
+      "litres": "https://www.litres.ru/umberto-eko/imya-rozy-3119635/",
+      "livelib": "https://www.livelib.ru/book/17761/editions/audio",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202209111,
       "name": "Изумруд раджи (сборник)",
       "author": "Агата Кристи",
