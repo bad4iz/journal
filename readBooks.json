@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202210061,
+      "name": "Четвертая мировая война. Будущее уже рядом",
+      "author": "Андрей Курпатов",
+      "date": "06.10.2022",
+      "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/38983333-andrey-kurpatov-chetvertaya-mirovaya-voyna-buduschee-uzhe-ryadom.webp",
+      "verdict": "Хорошие мысли стоит обратить внимание. Возможно Дюна возможна",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/chetvertaya-mirovaya-voyna-buduschee-uzhe-ryadom/",
+      "livelib": "https://www.livelib.ru/book/1002142858-chetvertaya-mirovaya-vojna-buduschee-uzhe-ryadom-andrej-kurpatov",
+      "type": "бумажная книга"
+    },
+    {
       "id": 202209221,
       "name": "Имя розы",
       "author": "Умберто Эко",
