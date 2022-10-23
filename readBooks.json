@@ -34,6 +34,17 @@
       "type": "аудиокнига"
     },
     {
+      "id": 202211021,
+      "name": "Рыбалка. Большая энциклопедия рыболова",
+      "author": "",
+      "date": "10.10.2022",
+      "img": "https://cv8.litres.ru/pub/c/pdf-kniga/cover_330/38626383-aleksandr-bankrashkov-rybalka-bolshaya-enciklopediya-rybolova-38626383.webp",
+      "verdict": "В основном на щуку",
+      "litres": "https://www.litres.ru/aleksandr-bankrashkov/rybalka-bolshaya-enciklopediya-rybolova-38626383/",
+      "description": "",
+      "type": "электронная книга"
+    },
+    {
       "id": 202210061,
       "name": "Четвертая мировая война. Будущее уже рядом",
       "author": "Андрей Курпатов",
