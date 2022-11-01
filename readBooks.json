@@ -2,6 +2,17 @@
   "books": [
 
     {
+      "id": 202210311,
+      "name": "Пять искушений руководителя: притчи о лидерстве",
+      "author": "Патрик Ленсиони",
+      "date": "31.10.2022",
+      "img": "https://s1.livelib.ru/boocover/1000104969/o/d2c6/Patrik_Lensioni__Pyat_iskushenij_rukovoditelya_pritchi_o_liderstve.jpeg",
+      "verdict": "Хорошая",
+      "description": "",
+      "livelib": "https://www.livelib.ru/book/1000104969-pyat-iskushenij-rukovoditelya-pritchi-o-liderstve-patrik-lensioni",
+      "type": "электронная книга"
+    },
+    {
       "id": 202210221,
       "name": "3D-моделирование на WebGL  с помощью библиотеки  Three.js",
       "author": "А.Н.Вильданов",
@@ -20,6 +31,7 @@
       "verdict": "Даже не вздумайте!!! не осилил даже и половины. Чушь полнейшая.",
       "description": "",
       "litres": "https://www.litres.ru/regina-brett-3/bog-nikogda-ne-morgaet-50-urokov-kotorye-izmenyat-tvou-zhizn-24305322/otzivi/",
+      "livelib": "https://www.livelib.ru/book/1002708230-bog-nikogda-ne-morgaet-50-urokov-kotorye-izmenyat-tvoyu-zhizn-regina-brett",
       "type": "аудиокнига"
     },
     {
@@ -31,6 +43,7 @@
       "verdict": "Очень хороший вход в стоицизм",
       "description": "",
       "litres": "https://www.litres.ru/massimo-piluchchi/kak-byt-stoikom-antichnaya-filosofiya-i-sovreme-37670639/",
+      "livelib": "https://www.livelib.ru/book/1002721406-kak-byt-stoikom-antichnaya-filosofiya-i-sovremennaya-zhizn-massimo-pilyuchchi",
       "type": "аудиокнига"
     },
     {
