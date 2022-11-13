@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202211121,
+      "name": "WebGL: программирование трехмерной графики",
+      "author": "Коичи Мацуда, Роджер Ли",
+      "date": "12.11.2022",
+      "img": "https://cv6.litres.ru/pub/c/pdf-kniga/cover_415/10002663-koichi-macuda-webgl-programmirovanie-trehmernoy-grafiki-10002663.webp",
+      "verdict": "Хорошая. Но надо читать читать и читать. Так как это учебник",
+      "description": "",
+      "litres": "https://www.litres.ru/koichi-macuda/webgl-programmirovanie-trehmernoy-grafiki-10002663/",
+      "livelib": "https://www.livelib.ru/book/1001268728-webgl-programmirovanie-trehmernoj-grafiki-koichi-matsuda",
+      "type": "электронная книга"
+    },
+    {
       "id": 202210311,
       "name": "Пять искушений руководителя: притчи о лидерстве",
       "author": "Патрик Ленсиони",
