@@ -2,6 +2,30 @@
   "books": [
 
     {
+      "id": 202212021,
+      "name": "Рефакторинг кода на JavaScript: улучшение проекта существующего кода",
+      "author": "Мартин Фаулер",
+      "date": "02.12.2022",
+      "img": "https://cv5.litres.ru/pub/c/pdf-kniga/cover_415/48613758-martin-fauler-refaktoring-koda-na-javascript-uluchshenie-proekta-48613758.webp",
+      "verdict": "Если честно то мало что понял. Но очено хорошая надо опять перечитывать перерешивать.",
+      "description": "",
+      "litres": "https://www.litres.ru/martin-fauler/refaktoring-koda-na-javascript-uluchshenie-proekta-48613758/",
+      "livelib": "https://www.livelib.ru/book/1003548149-refaktoring-koda-na-javascript-uluchshenie-proekta-suschestvuyuschego-koda-martin-fauler",
+      "type": "электронная книга"
+    },
+    {
+      "id": 202212011,
+      "name": "Еретики Дюны",
+      "author": "Фрэнк Герберт",
+      "date": "01.12.2022",
+      "img": "https://cv4.litres.ru/pub/c/audiokniga/cover_415/67261944-frenk-gerbert-eretiki-duny-67261944.webp",
+      "verdict": "очень тяжело",
+      "description": "",
+      "litres": "https://www.litres.ru/frenk-gerbert/eretiki-duny-67261944/",
+      "livelib": "https://www.livelib.ru/book/1000686369-eretiki-dyuny-frenk-gerbert",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202211121,
       "name": "WebGL: программирование трехмерной графики",
       "author": "Коичи Мацуда, Роджер Ли",
