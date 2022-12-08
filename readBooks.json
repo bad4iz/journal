@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202212081,
+      "name": "Руководство к жизни",
+      "author": "Эпиктет",
+      "date": "08.12.2022",
+      "img": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_330/63713462-epiktet-27138481-rukovodstvo-k-zhizni.webp",
+      "verdict": "Прям мне кажется обязательно. Все что коучи про успешный успех... все давно уже было тут.",
+      "description": "",
+      "litres": "https://www.litres.ru/epiktet-27138481/rukovodstvo-k-zhizni/",
+      "livelib": "https://www.livelib.ru/book/1005733960-rukovodstvo-k-zhizni-epiktet",
+      "type": "электронная книга"
+    },
+    {
       "id": 202212021,
       "name": "Рефакторинг кода на JavaScript: улучшение проекта существующего кода",
       "author": "Мартин Фаулер",
