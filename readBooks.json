@@ -2,6 +2,18 @@
   "books": [
 
     {
+      "id": 202220081,
+      "name": "KGBT+ (КГБТ+)",
+      "author": "Виктор Пелевин",
+      "date": "20.12.2022",
+      "img": "https://cv6.litres.ru/pub/c/audiokniga/cover_330/68010761-viktor-pelevin-kgbt-audio.webp",
+      "verdict": "Начало и конец прям улетные.",
+      "description": "",
+      "litres": "https://www.litres.ru/viktor-pelevin/kgbt-audio",
+      "livelib": "https://www.livelib.ru/book/1007543299-kgbt-viktor-pelevin",
+      "type": "электронная книга"
+    },
+    {
       "id": 202212081,
       "name": "Руководство к жизни",
       "author": "Эпиктет",
