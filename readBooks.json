@@ -1,8 +1,19 @@
 {
   "books": [
-
     {
-      "id": 202220081,
+      "id": 202301101,
+      "name": "Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений",
+      "author": "Борис Черный",
+      "date": "10.01.2023",
+      "img": "https://cv0.litres.ru/pub/c/pdf-kniga/cover_415/64081906-boris-chernyy-276503-professionalnyy-typescript-razrabotka-massht-64081906.webp",
+      "verdict": "Треть книги почти по диагонали так как не знаком с проблематикой. Надо будет еще раз перечитать через годик, кнага достойная",
+      "description": "",
+      "litres": "https://www.litres.ru/boris-chernyy-276503/professionalnyy-typescript-razrabotka-massht-64081906/",
+      "livelib": "https://www.livelib.ru/book/1005751879-professionalnyj-typescript-razrabotka-masshtabiruemyh-javascriptprilozhenij-boris-chernyj",
+      "type": "электронная книга"
+    },
+    {
+      "id": 202212201,
       "name": "KGBT+ (КГБТ+)",
       "author": "Виктор Пелевин",
       "date": "20.12.2022",
