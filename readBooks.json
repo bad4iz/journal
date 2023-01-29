@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202301291,
+      "name": "Тестирование JavaScript",
+      "author": "Лукас да Коста",
+      "date": "29.01.2023",
+      "img": "https://cv8.litres.ru/pub/c/cover_330/68677386.webp",
+      "verdict": "Хорошая. Есть претензии но не такие сильные как плюсы.",
+      "description": "",
+      "litres": "https://www.litres.ru/lukas-da-kosta/testirovanie-javascript-68677386/",
+      "livelib": "https://www.livelib.ru/book/1007998633-testirovanie-javascript-kosta-lukas-da",
+      "type": "электронная книга"
+    },
+    {
       "id": 202301101,
       "name": "Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений",
       "author": "Борис Черный",
