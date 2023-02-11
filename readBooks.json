@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202301111,
+      "name": "Мышление. Системное исследование",
+      "author": "Андрей Курпатов",
+      "date": "11.02.2023",
+      "img": "https://cv2.litres.ru/pub/c/cover_415/40230325.webp",
+      "verdict": "Хочется привести текст из другой книги (КГБТ+ | Виктор Пелевин). В увиденном будет только увиденное, в услышанном будет только услышанное, в ощущаемом только ощущаемое, в осознаваемом только осознаваемое. Так и тренируйся и если достигнешь подобного тебя в этом уже не будет. Вот она реальность к которой надо стремится.",
+      "description": "",
+      "litres": "https://www.litres.ru/andrey-kurpatov/myshlenie-sistemnoe-issledovanie/",
+      "livelib": "https://www.livelib.ru/review/3258514-myshlenie-sistemnoe-issledovanie-andrej-kurpatov",
+      "type": "Бумажная книга"
+    },
+    {
       "id": 202301291,
       "name": "Тестирование JavaScript",
       "author": "Лукас да Коста",
