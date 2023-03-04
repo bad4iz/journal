@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202303041,
+      "name": "Обломов",
+      "author": "Иван Гончаров",
+      "date": "24.02.2023",
+      "img": "https://cv9.litres.ru/pub/c/cover_330/66691490.webp",
+      "verdict": "Достойная и нужная книга. Все мы в какой то степени Обломовы",
+      "description": "",
+      "litres": "https://www.litres.ru/ivan-goncharov/oblomov-66691490/",
+      "livelib": "https://www.livelib.ru/book/1007435845-oblomov-ivan-goncharov",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202302241,
       "name": "Обломов",
       "author": "Иван Гончаров",
@@ -11,7 +23,8 @@
       "litres": "https://www.litres.ru/ivan-goncharov/oblomov-66691490/",
       "livelib": "https://www.livelib.ru/book/1007435845-oblomov-ivan-goncharov",
       "type": "аудиокнига"
-    },{
+    },
+    {
       "id": 202302111,
       "name": "Мышление. Системное исследование",
       "author": "Андрей Курпатов",
