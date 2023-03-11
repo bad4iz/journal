@@ -2,15 +2,15 @@
   "books": [
     {
       "id": 202303041,
-      "name": "Обломов",
-      "author": "Иван Гончаров",
+      "name": "Пять строк кода",
+      "author": "Кристиан Клаусен",
       "date": "24.02.2023",
-      "img": "https://cv9.litres.ru/pub/c/cover_330/66691490.webp",
-      "verdict": "Достойная и нужная книга. Все мы в какой то степени Обломовы",
+      "img": "https://cv6.litres.ru/pub/c/cover_415/68677660.webp",
+      "verdict": "В целом положительная книги. Но не надо принимать все за догму.",
       "description": "",
-      "litres": "https://www.litres.ru/ivan-goncharov/oblomov-66691490/",
-      "livelib": "https://www.livelib.ru/book/1007435845-oblomov-ivan-goncharov",
-      "type": "аудиокнига"
+      "litres": "https://www.litres.ru/kristian-klausen/pyat-strok-koda-epub-68677660/",
+      "livelib": "https://www.livelib.ru/book/1007902114-pyat-strok-koda-klausen-kristian",
+      "type": "электронная книга"
     },
     {
       "id": 202302241,
