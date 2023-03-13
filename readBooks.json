@@ -1,10 +1,22 @@
 {
   "books": [
-    {
+     {
+      "id": 202303131,
+      "name": "Капитул Дюны",
+      "author": "Фрэнк Герберт",
+      "date": "24.02.2023",
+      "img": "https://cv7.litres.ru/pub/c/cover_330/67317579.webp",
+      "verdict": "Только ради того что бы закрыть серию.",
+      "description": "",
+      "litres": "https://www.litres.ru/frenk-gerbert/kapitul-duny-67317579/",
+      "livelib": "https://www.livelib.ru/book/1005491278-kapitul-dyuny-frenk-gerbert",
+      "type": "аудиокнига"
+    },
+   {
       "id": 202303041,
       "name": "Пять строк кода",
       "author": "Кристиан Клаусен",
-      "date": "24.02.2023",
+      "date": "04.03.2023",
       "img": "https://cv6.litres.ru/pub/c/cover_415/68677660.webp",
       "verdict": "В целом положительная книги. Но не надо принимать все за догму.",
       "description": "",
