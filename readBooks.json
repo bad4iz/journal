@@ -1,6 +1,18 @@
 {
   "books": [
      {
+      "id": 202303271,
+      "name": "Женщина французского лейтенанта",
+      "author": "Джон Фаулз",
+      "date": "27.03.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/51251836.webp",
+      "verdict": "Советую.",
+      "description": "https://cv4.litres.ru/pub/c/cover_415/21201146.webp",
+      "litres": "https://www.litres.ru/audiobook/dzhon-faulz/zhenschina-francuzskogo-leytenanta-51251836/",
+      "livelib": "https://www.livelib.ru/book/1005008326-zhenschina-frantsuzskogo-lejtenanta-dzhon-faulzо",
+      "type": "аудиокнига"
+    },
+     {
       "id": 202303251,
       "name": "Складка времени. Сущность и критерии",
       "author": "Андрей Курпатов",
