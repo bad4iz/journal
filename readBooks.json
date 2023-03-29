@@ -1,6 +1,18 @@
 {
   "books": [
-     {
+      {
+      "id": 202303291,
+      "name": "Титан",
+      "author": "Теодор Драйзер",
+      "date": "27.03.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/67858830.webp",
+      "verdict": "Норм.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/teodor-drayzer/titan-67858830/",
+      "livelib": "https://www.livelib.ru/book/1001496644-titan-teodor-drajzer",
+      "type": "аудиокнига"
+    },
+    {
       "id": 202303271,
       "name": "Женщина французского лейтенанта",
       "author": "Джон Фаулз",
