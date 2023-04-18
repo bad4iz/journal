@@ -1,12 +1,24 @@
 {
   "books": [
     {
+      "id": 202304191,
+      "name": "Пианист",
+      "author": "Владислав Шпильман",
+      "date": "19.04.2023",
+      "img": "https://cv1.litres.ru/pub/c/cover_330/52006418.webp",
+      "verdict": "Как ужасен фашизм. Надо обязательно такие книги читать. И как прекрасна обычная жизнь",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/vladislav-shpilman-15817030/pianist-52006418/",
+      "livelib": "https://www.livelib.ru/book/1008047269-pianist-varshavskie-dnevniki-19391945-vladislav-shpilman",
+      "type": "аудио книга"
+    },
+    {
       "id": 202304161,
       "name": "Понедельник начинается в субботу",
       "author": "Аркадий и Борис Стругацкие",
       "date": "16.04.2023",
       "img": "https://cv8.litres.ru/pub/c/cover_330/3956285.webp",
-      "verdict": "Классика она и есть классика. В школе думаю бы не понял.",
+      "verdict": "",
       "description": "",
       "litres": "https://www.litres.ru/audiobook/arkadiy-i-boris-strugackie/ponedelnik-nachinaetsya-v-subbotu-3956285/",
       "livelib": "https://www.livelib.ru/book/1000570253-ponedelnik-nachinaetsya-v-subbotu-bratya-strugatskie",
