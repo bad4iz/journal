@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202304251,
+      "name": "Стоик",
+      "author": "Теодор Драйзер",
+      "date": "25.04.2023",
+      "img": "https://cv7.litres.ru/pub/c/cover_330/17043079.webp",
+      "verdict": "Каждый получает по заслугам.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/teodor-drayzer/stoik-17043079",
+      "livelib": "https://www.livelib.ru/book/1001496646-stoik-teodor-drajzer",
+      "type": "аудио книга"
+    },
+    {
       "id": 202304191,
       "name": "Пианист",
       "author": "Владислав Шпильман",
