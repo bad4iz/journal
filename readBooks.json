@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "id": 202304271,
+      "name": "Быть эгоистом. Универсальные правила",
+      "author": "Андрей Курпатов",
+      "date": "27.04.2023",
+      "img": "https://cv2.litres.ru/pub/c/cover_415/32834327.webp",
+      "verdict": "Хорошая. надо будет бумажную приобрести",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/andrey-kurpatov/byt-egoistom-universalnye-pravila-32834327/",
+      "type": "аудио книга"
+    },
+    {
       "id": 202304251,
       "name": "Стоик",
       "author": "Теодор Драйзер",
