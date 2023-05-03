@@ -1,12 +1,24 @@
 {
   "books": [
     {
+      "id": 202305031,
+      "name": "Тактика Макиавелли. Выжить и преуспеть в современной корпорации",
+      "author": "Марк Пауэлл, Джонатан Гиффорд",
+      "date": "03.05.2023",
+      "img": "https://cv5.litres.ru/pub/c/cover_330/36076357.webp",
+      "verdict": "хорошая. надо будет бумажную приобрести, пойду Макиавелли почитаю",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/mark-pauell/taktika-makiavelli-vyzhit-i-preuspet-v-sovremennoy-korporacii-36076357/",
+      "livelib": "https://www.livelib.ru/book/1002831585-taktika-makiavelli-vyzhit-i-preuspet-v-sovremennoj-korporatsii-mark-pauell",
+      "type": "аудио книга"
+    },
+    {
       "id": 202304271,
-      "name": "Быть эгоистом. Универсальные правила",
-      "author": "Андрей Курпатов",
+      "name": "быть эгоистом. универсальные правила",
+      "author": "андрей курпатов",
       "date": "27.04.2023",
       "img": "https://cv2.litres.ru/pub/c/cover_415/32834327.webp",
-      "verdict": "Хорошая. надо будет бумажную приобрести",
+      "verdict": "хорошая. надо будет бумажную приобрести",
       "description": "",
       "litres": "https://www.litres.ru/audiobook/andrey-kurpatov/byt-egoistom-universalnye-pravila-32834327/",
       "type": "аудио книга"
