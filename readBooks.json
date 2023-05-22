@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202305221,
+      "name": "Война Алой и Белой розы: Крах Плантагенетов и воцарение Тюдоров",
+      "author": "Дэн Джонс",
+      "date": "22.05.2023",
+      "img": "https://cv2.litres.ru/pub/c/cover_330/68943921.webp",
+      "verdict": "Норм книга. Сложная для меня так как на имена я не сильно. Но надо что бы тренировать. В целом ничего не меняется что тогда боролись к кормушке что сейчас. Что тогда другие страны-Враги вмешивались в легивность Правления что сейчас. Есть минусы у автора, одних поносит других в этом же но под другими словами превозносит.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/den-dzhons/voyna-aloy-i-beloy-rozy-krah-plantagenetov-i-vocarenie-tudorov-68943921/",
+      "livelib": "https://www.livelib.ru/book/1008042847-vojna-aloj-i-beloj-rozy-krah-plantagenetov-i-votsarenie-tyudorov-den-dzhons",
+      "type": "аудио книга"
+    },
+    {
       "id": 202305101,
       "name": "Пять пороков команды",
       "author": "Патрик Ленсиони",
