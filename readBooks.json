@@ -1,18 +1,5 @@
 {
   "books": [
-     {
-
-      "id": 202306181,
-      "name": "Шум. Несовершенство человеческих суждений",
-    "author": "Даниэль Канеман, Касс Р. Санстейн, Оливье Сибони",
-      "date": "18.06.2023",
-      "img": "https://cv3.litres.ru/pub/c/cover_330/67858830.webp",
-      "verdict": "Аудио книга... не смог через этот формат. Слишком много информации на дюйм. Надо да и стоит бумажную купить.",
-      "description": "https://cv9.litres.ru/pub/c/cover_330/66978993.webp",
-      "litres": "https://www.litres.ru/audiobook/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66978993/",
-    "livelib": "https://www.livelib.ru/book/1006847620-shum-nesovershenstvo-chelovecheskih-suzhdenij-daniel-kaneman",
-      "type": "аудиокнига"
-    },
     {
       "id": 202306011,
       "name": "Крестный отец",
@@ -24,6 +11,18 @@
       "litres": "https://www.litres.ru/audiobook/mario-puzo/krestnyy-otec-22842115/",
       "livelib": "https://www.livelib.ru/book/1002144665-krestnyj-otets-mario-pyuzo",
       "type": "аудио книга"
+    },
+    {
+      "id": 202306181,
+      "name": "Шум. Несовершенство человеческих суждений",
+      "author": "Даниэль Канеман, Касс Р. Санстейн, Оливье Сибони",
+      "date": "18.06.2023",
+      "img": "https://cv9.litres.ru/pub/c/cover_330/66978993.webp",
+      "verdict": "Аудио книга... не смог через этот формат. Слишком много информации на дюйм. Надо да и стоит бумажную купить.",
+      "description": "https://cv9.litres.ru/pub/c/cover_330/66978993.webp",
+      "litres": "https://www.litres.ru/audiobook/daniel-kaneman/shum-nesovershenstvo-chelovecheskih-suzhdeniy-66978993/",
+      "livelib": "https://www.livelib.ru/book/1006847620-shum-nesovershenstvo-chelovecheskih-suzhdenij-daniel-kaneman",
+      "type": "аудиокнига"
     },
     {
       "id": 202305221,
