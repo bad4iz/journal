@@ -14,6 +14,18 @@
       "type": "аудиокнига"
     },
     {
+      "id": 202306011,
+      "name": "Крестный отец",
+      "author": "Марио Пьюзо",
+      "date": "01.07.2023",
+      "img": "https://cv1.litres.ru/pub/c/cover_330/22842115.webp",
+      "verdict": "Классика она и есть классика.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/mario-puzo/krestnyy-otec-22842115/",
+      "livelib": "https://www.livelib.ru/book/1002144665-krestnyj-otets-mario-pyuzo",
+      "type": "аудио книга"
+    },
+    {
       "id": 202305221,
       "name": "Война Алой и Белой розы: Крах Плантагенетов и воцарение Тюдоров",
       "author": "Дэн Джонс",
