@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "id": 202307121,
+      "name": "Гражданская война",
+      "author": "Гай Юлий Цезарь",
+      "date": "12.07.2023",
+      "img": "https://cv1.litres.ru/pub/c/cover_330/48517216.webp",
+      "verdict": "",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/gay-uliy-cezar/grazhdanskaya-voyn",
+      "livelib": "https://www.livelib.ru/work/1002105918-grazhdanskaya-vojna-gaj-yulij-tsezar",
+      "type": "аудио книга"
+    },
+    {
+      "id": 202307061,
+      "name": "История Рима",
+      "author": "Теодор Моммзен",
+      "date": "06.07.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/301132.webp",
+      "verdict": "Классика она и есть классика. Но галопом по европам",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/teodor-mommzen/istoriya-rima-301132/",
+      "livelib": "https://www.livelib.ru/book/1000557523-istoriya-rima-teodor-mommzen",
+      "type": "аудио книга"
+    },
+    {
       "id": 202306011,
       "name": "Крестный отец",
       "author": "Марио Пьюзо",
