@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202307171,
+      "name": "Поиски Абсолюта",
+      "author": "Оноре де Бальзак",
+      "date": "17.07.2023",
+      "img": "https://cv5.litres.ru/pub/c/cover_330/68404057.webp",
+      "verdict": "Произведение оценке не подлежит. Это одно из MastHave образованного человека. ",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/onore-de-balzak/poiski-absoluta-68404057/",
+      "livelib": "https://www.livelib.ru/work/1000723550-poiski-absolyuta-onore-de-balzak",
+      "type": "аудио книга"
+    },
+    {
       "id": 202307121,
       "name": "Гражданская война",
       "author": "Гай Юлий Цезарь",
