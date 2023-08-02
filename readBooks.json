@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202308021,
+      "name": "Блудливое Средневековье. Бытовые очерки западноевропейской культуры",
+      "author": "Екатерина Мишаненкова",
+      "date": "02.08.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/51242734.webp",
+      "verdict": "Позновательная",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/ekaterina-mishanenko/bludlivoe-srednevekove-bytovye-ocherki-zapadnoevropey-51242734/",
+      "livelib": "https://www.livelib.ru/book/1003973620-bludlivoe-srednevekove-bytovye-ocherki-zapadnoevropejskoj-kultury-ekaterina-mishanenkova",
+      "type": "аудио книга"
+    },
+    {
       "id": 202307211,
       "name": "Святая Елена, маленький остров",
       "author": "Марк Алданов",
