@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202308211,
+      "name": "Камо грядеши",
+      "author": "Генрик Сенкевич",
+      "date": "21.08.2023",
+      "img": "https://cv2.litres.ru/pub/c/cover_330/68448122.webp",
+      "verdict": "Половину осилил. но если делать выводы... Ода христианству. В задумке все прекрасно ... если бы не средневековье которое показало что такое христианство в человеке на деле.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/genrik-senkevich/kamo-gryadeshi-68448122/",
+      "livelib": "https://www.livelib.ru/book/1007683510-kamo-gryadeshi-genrik-senkevich",
+      "type": "аудио книга"
+    },
+    {
       "id": 202308021,
       "name": "Блудливое Средневековье. Бытовые очерки западноевропейской культуры",
       "author": "Екатерина Мишаненкова",
