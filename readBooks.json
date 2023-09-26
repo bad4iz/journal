@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202309261,
+      "name": "Фейк",
+      "author": "Роберт Кийосаки",
+      "date": "26.09.2023",
+      "img": "https://cv5.litres.ru/pub/c/cover_330/52003355.webp",
+      "verdict": "Ну, Роберт конечно уже не тот который Богатый Папа. Прям разносит свою страну, нашей опозиции даже так и не снилось ))) ",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/robert-kiyosaki/feyk-52003355/",
+      "livelib": "https://www.livelib.ru/book/1005003451-fejk-robert-kijosaki",
+      "type": "аудио книга"
+    },
+    {
       "id": 202309071,
       "name": "Воспоминания о будущем. Идеи современной экономики",
       "author": "Михаил Хазин",
