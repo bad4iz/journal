@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202310021,
+      "name": "Чингисхан",
+      "author": "Василий Ян",
+      "date": "03.10.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/4997234.webp",
+      "verdict": "Жесткая книга прям. Жестокость и без честность (с нашей точки зрения) монголов поражает.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/vasiliy-yan/chingishan-4997234/",
+      "livelib": "https://www.livelib.ru/book/1000239796-chingishan-vasilij-yan",
+      "type": "аудио книга"
+    },
+    {
       "id": 202309261,
       "name": "Фейк",
       "author": "Роберт Кийосаки",
