@@ -1,6 +1,30 @@
 {
   "books": [
     {
+      "id": 202311031,
+      "name": "Непобедимое солнце. Книга 2",
+      "author": "Виктор Пелевин",
+      "date": "03.11.2023",
+      "img": "https://cv3.litres.ru/pub/c/cover_330/57291331.webp",
+      "verdict": "Есть мысли",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/viktor-pelevin/nepobedimoe-solnce-kniga-2-57291331/",
+      "livelib": "https://www.livelib.ru/book/1005074839-nepobedimoe-solntse-kniga-2-viktor-pelevin",
+      "type": "аудио книга"
+    },
+    {
+      "id": 202310201,
+      "name": "Непобедимое солнце. Книга 1",
+      "author": "Виктор Пелевин",
+      "date": "20.10.2023",
+      "img": "https://cv1.litres.ru/pub/c/cover_330/57291316.webp",
+      "verdict": "Есть мысли",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/viktor-pelevin/nepobedimoe-solnce-kniga-1-57291316/",
+      "livelib": "https://www.livelib.ru/book/1005074842-nepobedimoe-solntse-kniga-1-viktor-pelevin",
+      "type": "аудио книга"
+    },
+    {
       "id": 202310021,
       "name": "Чингисхан",
       "author": "Василий Ян",
