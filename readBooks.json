@@ -1,12 +1,24 @@
 {
   "books": [
     {
+      "id": 202312181,
+      "name": "Жизнь двенадцати цезарей",
+      "author": "Гай Светоний Транквилл",
+      "date": "18.12.2023",
+      "img": "https://cv7.litres.ru/pub/c/cover_330/6192576.webp",
+      "verdict": "есть мысли",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/gay-trankvill/zhizn-dvenadcati-cezarey-6192576/",
+      "livelib": "https://www.livelib.ru/book/1000115100-zhizn-dvenadtsati-tsezarej-svetonij",
+      "type": "аудио книга"
+    },
+    {
       "id": 202311031,
-      "name": "Непобедимое солнце. Книга 2",
-      "author": "Виктор Пелевин",
+      "name": "непобедимое солнце. книга 2",
+      "author": "виктор пелевин",
       "date": "03.11.2023",
       "img": "https://cv3.litres.ru/pub/c/cover_330/57291331.webp",
-      "verdict": "Есть мысли",
+      "verdict": "есть мысли",
       "description": "",
       "litres": "https://www.litres.ru/audiobook/viktor-pelevin/nepobedimoe-solnce-kniga-2-57291331/",
       "livelib": "https://www.livelib.ru/book/1005074839-nepobedimoe-solntse-kniga-2-viktor-pelevin",
