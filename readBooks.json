@@ -1,11 +1,23 @@
 {
   "books": [
     {
+      "id": 202401301,
+      "name": "Путешествие в Элевсин",
+      "author": "Виктор Пелевин",
+      "date": "30.01.2024",
+      "img": "https://cv0.litres.ru/pub/c/cover_250/69587401.webp",
+      "verdict": "третья баночная книга. Есть мысли. Прикольно я как раз читал про древний рим до этого)))",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/viktor-pelevin/puteshestvie-v-elevsin-69587401",
+      "livelib": "https://www.livelib.ru/book/1008951895-puteshestvie-v-elevsin-viktor-pelevin",
+      "type": "аудио книга"
+    },
+    {
       "id": 202312181,
       "name": "Жизнь двенадцати цезарей",
       "author": "Гай Светоний Транквилл",
       "date": "18.12.2023",
-      "img": "https://cv7.litres.ru/pub/c/cover_330/6192576.webp",
+      "img": "https://cv7.litres.ru/pub/c/cover_250/6192576.webp",
       "verdict": "есть мысли",
       "description": "",
       "litres": "https://www.litres.ru/audiobook/gay-trankvill/zhizn-dvenadcati-cezarey-6192576/",
@@ -14,11 +26,11 @@
     },
     {
       "id": 202311031,
-      "name": "непобедимое солнце. книга 2",
-      "author": "виктор пелевин",
+      "name": "Непобедимое солнце. Книга 2",
+      "author": "Виктор Пелевин",
       "date": "03.11.2023",
       "img": "https://cv3.litres.ru/pub/c/cover_330/57291331.webp",
-      "verdict": "есть мысли",
+      "verdict": "Есть мысли",
       "description": "",
       "litres": "https://www.litres.ru/audiobook/viktor-pelevin/nepobedimoe-solnce-kniga-2-57291331/",
       "livelib": "https://www.livelib.ru/book/1005074839-nepobedimoe-solntse-kniga-2-viktor-pelevin",
