@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202402211,
+      "name": "Истоки морали. В поисках человеческого у приматов",
+      "author": "Франс де Вааль",
+      "date": "21.02.2024",
+      "img": "https://cv1.litres.ru/pub/c/cover_250/67984211.webp",
+      "verdict": "Нужная книга особенно тем кто думает что человек венец творения и чем то отличается от животных",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/frans-de-vaal/istoki-morali-v-poiskah-chelovecheskogo-u-primatov-67984211/",
+      "livelib": "https://www.livelib.ru/book/1008444235-istoki-morali-v-poiskah-chelovecheskogo-u-primatov-frans-de-vaal",
+      "type": "аудио книга"
+    },
+    {
       "id": 202401301,
       "name": "Путешествие в Элевсин",
       "author": "Виктор Пелевин",
