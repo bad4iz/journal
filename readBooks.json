@@ -1,6 +1,31 @@
 {
   "books": [
     {
+      "id": 202405251,
+      "name": "Мы",
+      "author": "Евгений Замятин",
+      "date": "25.05.2024",
+      "img": "https://cv5.litres.ru/pub/c/cover_250/67628459.webp",
+      "verdict": "Хорошая книга. Прям похожа на классику. Тем более все антиутопии такие как 1984 и иже с ними как под копирку с этой книги.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/evgeniy-zamyatin/my-67628459/",
+      "livelib": "https://www.livelib.ru/book/1008250678-my-evgenij-zamyatin",
+      "type": "аудио книга"
+    },
+    {
+      "id": 202405201,
+      "name": "1984",
+      "author": "Джордж Оруэлл",
+      "date": "20.05.2024",
+      "img": "https://cv5.litres.ru/pub/c/cover_250/67778754.webp",
+      "verdict": "Норм книга, но сильно распиареная, ожидал конечно из за этого большее.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/dzhordzh-oruell/1984-63765621/",
+      "livelib": "https://www.livelib.ru/book/1009736842-1984-dzhordzh-oruell",
+      "type": "аудио книга"
+    },
+
+    {
       "id": 202402211,
       "name": "Истоки морали. В поисках человеческого у приматов",
       "author": "Франс де Вааль",
