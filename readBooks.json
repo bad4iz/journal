@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202407111,
+      "name": "Основы ныряния с задержкой дыхания",
+      "author": "Наталья Молчанова",
+      "date": "11.07.2024",
+      "img": "https://cv8.litres.ru/pub/c/cover_250/10245481.webp",
+      "verdict": "Хорошая познавательная",
+      "description": "",
+      "litres": "https://www.litres.ru/book/natalya-molchanova-2/osnovy-nyryaniya-s-zaderzhkoy-dyhaniya-10245481/",
+      "livelib": "https://www.livelib.ru/book/1000500244-osnovy-nyryaniya-s-zaderzhkoj-dyhaniya-natalya-molchanova",
+      "type": "электронная книга"
+    },
+    {
       "id": 202405251,
       "name": "Мы",
       "author": "Евгений Замятин",
