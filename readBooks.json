@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "id": 202409041,
+      "name": "Исследование о природе и причинах богатства народов",
+      "author": "Адам Смит",
+      "date": "04.09.2024",
+      "img": "https://cdn.litres.ru/pub/c/cover_330/67774625.webp",
+      "verdict": "Фундаментальный труд.",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/adam-smit/issledovanie-o-prirode-i-prichinah-bogatstva-narodov-67774625/",
+      "livelib": "https://www.livelib.ru/book/1007683480-issledovanie-o-prirode-i-prichinah-bogatstva-narodov-adam-smit",
+      "type": "аудио книга"
+    },
+    {
       "id": 202407111,
       "name": "Основы ныряния с задержкой дыхания",
       "author": "Наталья Молчанова",
