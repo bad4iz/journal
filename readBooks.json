@@ -1,5 +1,17 @@
 {
   "books": [
+     {
+      "id": 202411011,
+      "name": "Сто лет одиночества",
+      "author": "Габриэль Гарсиа Маркес",
+      "date": "01.11.2024",
+      "img": "https://cdn.litres.ru/pub/c/cover_415/12160248.webp",
+      "verdict": "Cвоеобразная книга",
+      "description": "",
+      "litres": "https://www.litres.ru/audiobook/gabriel-garsia-markes-44998/sto-let-odinochestva-12160248/",
+      "livelib": "https://www.livelib.ru/book/1001627570-sto-let-odinochestva-markes-gabriel-garsiya",
+      "type": "аудио книга"
+    },
     {
       "id": 202409041,
       "name": "Исследование о природе и причинах богатства народов",
