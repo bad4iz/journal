@@ -1,5 +1,17 @@
 {
   "books": [
+         {
+      "id": 202502221,
+      "name": "Слон в голове",
+      "author": "Симлер Кевин, Хэнсон Робин",
+      "date": "22.02.2025",
+      "img": "https://s1.livelib.ru/boocover/1005633700/200x305/e3f9/__Slon_v_golove.jpg",
+      "verdict": "Супер книга",
+      "description": "",
+      "litres": "",
+      "livelib": "https://www.livelib.ru/book/1005633700-slon-v-golove-simler-kevin",
+      "type": "бумажная книга"
+    },
      {
       "id": 202411011,
       "name": "Сто лет одиночества",
